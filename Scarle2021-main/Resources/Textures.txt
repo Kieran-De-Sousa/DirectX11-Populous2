@@ -1,0 +1,8 @@
+"miner", "../Assets/SettlerSpriteSheet"
+"texture", "texture_test_path"
+"grass_tile", "../Assets/grass"
+"water_tile", "../Assets/water"
+"blue_house", "../Assets/GreenHouse"
+"goblin", "../Assets/goblinSpriteSheet"
+"green_house", "../Assets/GreenHouse"
+"red_house", "../Assets/RedHouse"

@@ -1,0 +1,4 @@
+"simons_cool_annoying_sound_thing", "../Sounds/Explo1"
+"fire_audio", "../Sounds/fire_sound"
+"button_press_audio", "../Sounds/button_press_sound"
+"death_audio", "../Sounds/Explo1/death_audio"

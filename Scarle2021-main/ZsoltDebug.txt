@@ -1,0 +1,7099 @@
+Hello World!
+>> PEOPLE ability category selecred <<
+>> Raise / Lower ground ability selected <<
+>> Raise / Lower ground ability selected <<
+Missing Texture : test_animation_sheet
+14
+28,13
+27,13
+26,14
+25,14
+24,14
+23,15
+22,15
+21,16
+20,17
+19,18
+18,18
+17,18
+16,19
+15,19
+1034: Spawned with 10 starting energy.
+1035: Spawned with 10 starting energy.
+1036: Spawned with 10 starting energy.
+1037: Spawned with 10 starting energy.
+1038: Spawned with 10 starting energy.
+1039: Spawned with 10 starting energy.
+1040: Spawned with 10 starting energy.
+1041: Spawned with 10 starting energy.
+1042: Spawned with 10 starting energy.
+1043: Spawned with 10 starting energy.
+1044: Spawned with 10 starting energy.
+1045: Spawned with 10 starting energy.
+1046: Spawned with 10 starting energy.
+1047: Spawned with 10 starting energy.
+1048: Spawned with 10 starting energy.
+1049: Spawned with 10 starting energy.
+1050: Spawned with 10 starting energy.
+1051: Spawned with 10 starting energy.
+1052: Spawned with 10 starting energy.
+1053: Spawned with 10 starting energy.
+Collision Enter!16
+Collision Enter!38
+Collision Enter!63
+1035 is attempting settling at: 7, 14
+Settling Succeeded at: 7, 14
+New entity: 1054
+1036 is attempting settling at: 17, 18
+Settling failed at: 17, 18
+1036 has a new Settling delay of 1.20859
+1037 is attempting settling at: 11, 10
+Settling failed at: 11, 10
+1037 has a new Settling delay of 5.64447
+1038 is attempting settling at: 19, 10
+Settling Succeeded at: 19, 10
+New entity: 1055
+1039 is attempting settling at: 8, 8
+Settling failed at: 8, 8
+1039 has a new Settling delay of 4.93433
+1040 is attempting settling at: 19, 7
+Settling failed at: 19, 7
+1040 has a new Settling delay of 3.55676
+1041 is attempting settling at: 4, 15
+Settling Succeeded at: 4, 15
+New entity: 1056
+1042 is attempting settling at: 16, 18
+Settling failed at: 16, 18
+1042 has a new Settling delay of 2.85974
+1043 is attempting settling at: 23, 18
+Settling Succeeded at: 23, 18
+New entity: 1057
+1044 is attempting settling at: 14, 10
+Settling Succeeded at: 14, 10
+New entity: 1058
+1045 is attempting settling at: 23, 13
+Settling failed at: 23, 13
+1045 has a new Settling delay of 3.00165
+1046 is attempting settling at: 26, 25
+Settling Succeeded at: 26, 25
+New entity: 1059
+1047 is attempting settling at: 10, 25
+Settling failed at: 10, 25
+1047 has a new Settling delay of 5.23782
+1048 is attempting settling at: 19, 7
+Settling failed at: 19, 7
+1048 has a new Settling delay of 2.60141
+1049 is attempting settling at: 22, 10
+Settling failed at: 22, 10
+1049 has a new Settling delay of 4.61954
+1050 is attempting settling at: 3, 10
+Settling failed at: 3, 10
+1050 has a new Settling delay of 4.76099
+1051 is attempting settling at: 23, 18
+Settling failed at: 23, 18
+1051 has a new Settling delay of 2.6803
+1052 is attempting settling at: 10, 20
+Settling Succeeded at: 10, 20
+New entity: 1060
+1053 is attempting settling at: 10, 6
+Settling failed at: 10, 6
+1053 has a new Settling delay of 5.59854
+Missing Texture : test
+1036 is attempting settling at: 25, 16
+Settling failed at: 25, 16
+1036 has a new Settling delay of 5.20029
+1048 is attempting settling at: 25, 8
+Settling Succeeded at: 25, 8
+New entity: 1068
+1051 is attempting settling at: 21, 23
+Settling Succeeded at: 21, 23
+New entity: 1070
+1042 is attempting settling at: 14, 19
+Settling Succeeded at: 14, 19
+New entity: 1072
+1045 is attempting settling at: 13, 28
+Settling Succeeded at: 13, 28
+New entity: 1074
+
+1055 sprog failed.
+>> Chance: 0.416937
+>> Roll: 0.658264
+>>>> New Wait Time: 4.17944
+
+1040 is attempting settling at: 20, 15
+Settling Succeeded at: 20, 15
+New entity: 1076
+
+1057 sprog failed.
+>> Chance: 0.426685
+>> Roll: 0.841492
+>>>> New Wait Time: 3.03168
+
+
+1058 sprogged.
+>> Chance: 0.441062
+>> Roll: 0.249542
+
+1078: Spawned with 9.04225 starting energy.
+
+1054 sprogged.
+>> Chance: 0.447222
+>> Roll: 0.381744
+
+
+1059 sprog failed.
+>> Chance: 0.447222
+>> Roll: 0.711151
+>>>> New Wait Time: 4.76508
+
+1079: Spawned with 9.14235 starting energy.
+1049 is attempting settling at: 16, 30
+Settling failed at: 16, 30
+1049 has a new Settling delay of 2.69434
+1050 is attempting settling at: 19, 15
+Settling failed at: 19, 15
+1050 has a new Settling delay of 1.73456
+
+1056 sprog failed.
+>> Chance: 0.465663
+>> Roll: 0.78537
+>>>> New Wait Time: 4.39069
+
+1039 is attempting settling at: 3, 28
+Settling failed at: 3, 28
+1039 has a new Settling delay of 4.8443
+
+1060 sprogged.
+>> Chance: 0.468737
+>> Roll: 0.238983
+
+1080: Spawned with 9.49198 starting energy.
+1047 is attempting settling at: 17, 16
+Settling failed at: 17, 16
+1047 has a new Settling delay of 4.76663
+1053 is attempting settling at: 13, 8
+Settling failed at: 13, 8
+1053 has a new Settling delay of 1.94864
+1037 is attempting settling at: 23, 10
+Settling Succeeded at: 23, 10
+New entity: 1081
+
+1068 sprogged.
+>> Chance: 0.397057
+>> Roll: 0.124847
+
+1083: Spawned with 8.32718 starting energy.
+1036 is attempting settling at: 23, 5
+Settling failed at: 23, 5
+1036 has a new Settling delay of 2.58203
+
+1074 sprog failed.
+>> Chance: 0.38546
+>> Roll: 0.565704
+>>>> New Wait Time: 4.82172
+
+1050 is attempting settling at: 19, 23
+Settling Succeeded at: 19, 23
+New entity: 1084
+
+1057 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.666473
+>>>> New Wait Time: 4.82086
+
+1049 is attempting settling at: 15, 21
+Settling Succeeded at: 15, 21
+New entity: 1086
+
+1070 sprog failed.
+>> Chance: 0.42904
+>> Roll: 0.964355
+>>>> New Wait Time: 4.89264
+
+
+1055 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.68985
+>>>> New Wait Time: 3.00385
+
+1053 is attempting settling at: 13, 19
+Settling Succeeded at: 13, 19
+New entity: 1088
+
+1072 sprogged.
+>> Chance: 0.434033
+>> Roll: 0.172485
+
+1090: Spawned with 8.92803 starting energy.
+
+1076 sprogged.
+>> Chance: 0.406884
+>> Roll: 0.106018
+
+1091: Spawned with 8.48686 starting energy.
+
+1081 sprogged.
+>> Chance: 0.342797
+>> Roll: 0.298126
+
+1092: Spawned with 7.44545 starting energy.
+1036 is attempting settling at: 9, 13
+Settling failed at: 9, 13
+1036 has a new Settling delay of 2.78192
+
+1059 sprogged.
+>> Chance: 0.5
+>> Roll: 0.046051
+
+1093: Spawned with 10 starting energy.
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.589722
+>>>> New Wait Time: 4.21259
+
+1039 is attempting settling at: 21, 17
+Settling Succeeded at: 21, 17
+New entity: 1094
+1047 is attempting settling at: 17, 18
+Settling failed at: 17, 18
+1047 has a new Settling delay of 2.04874
+
+1055 sprogged.
+>> Chance: 0.5
+>> Roll: 0.372833
+
+1096: Spawned with 10 starting energy.
+
+1074 sprogged.
+>> Chance: 0.5
+>> Roll: 0.259094
+
+1097: Spawned with 10 starting energy.
+
+1084 sprog failed.
+>> Chance: 0.384439
+>> Roll: 0.975922
+>>>> New Wait Time: 4.73578
+
+
+1057 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.748444
+>>>> New Wait Time: 4.46881
+
+1036 is attempting settling at: 0, 19
+Settling Succeeded at: 0, 19
+New entity: 1098
+1047 is attempting settling at: 25, 4
+Settling failed at: 25, 4
+1047 has a new Settling delay of 5.08981
+
+1086 sprogged.
+>> Chance: 0.375375
+>> Roll: 0.0856323
+
+1100: Spawned with 7.97484 starting energy.
+
+1088 sprog failed.
+>> Chance: 0.366586
+>> Roll: 0.909363
+>>>> New Wait Time: 4.85034
+
+
+1070 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0413513
+
+1101: Spawned with 10 starting energy.
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.71286
+>>>> New Wait Time: 4.89136
+
+
+1094 sprogged.
+>> Chance: 0.315305
+>> Roll: 0.164612
+
+1102: Spawned with 6.99871 starting energy.
+1078 is attempting settling at: 5, 15
+Settling Succeeded at: 5, 15
+New entity: 1103
+1079 is attempting settling at: 19, 23
+Settling failed at: 19, 23
+1079 has a new Settling delay of 4.9856
+1080 is attempting settling at: 8, 14
+Settling failed at: 8, 14
+1080 has a new Settling delay of 4.88351
+
+1098 sprog failed.
+>> Chance: 0.28423
+>> Roll: 0.298248
+>>>> New Wait Time: 3.71112
+
+
+1058 sprog failed.
+>> Chance: 0.238476
+>> Roll: 0.609009
+>>>> New Wait Time: 4.62622
+
+
+1054 sprog failed.
+>> Chance: 0.24311
+>> Roll: 0.478638
+>>>> New Wait Time: 3.30579
+
+
+1057 sprogged.
+>> Chance: 0.5
+>> Roll: 0.380157
+
+1105: Spawned with 10 starting energy.
+
+1084 sprogged.
+>> Chance: 0.5
+>> Roll: 0.261932
+
+1106: Spawned with 10 starting energy.
+1083 is attempting settling at: 23, 17
+Settling failed at: 23, 17
+1083 has a new Settling delay of 5.69833
+
+1060 sprog failed.
+>> Chance: 0.234399
+>> Roll: 0.930786
+>>>> New Wait Time: 3.55145
+
+
+1088 sprogged.
+>> Chance: 0.5
+>> Roll: 0.411194
+
+1107: Spawned with 10 starting energy.
+1047 is attempting settling at: 7, 12
+Settling failed at: 7, 12
+1047 has a new Settling delay of 3.75726
+
+1103 sprogged.
+>> Chance: 0.355636
+>> Roll: 0.0475464
+
+1108: Spawned with 7.65408 starting energy.
+1090 is attempting settling at: 14, 21
+Settling failed at: 14, 21
+1090 has a new Settling delay of 3.39349
+
+1068 sprog failed.
+>> Chance: 0.242073
+>> Roll: 0.264343
+>>>> New Wait Time: 3.2569
+
+1091 is attempting settling at: 16, 12
+Settling failed at: 16, 12
+1091 has a new Settling delay of 4.6673
+
+1072 sprog failed.
+>> Chance: 0.19997
+>> Roll: 0.533783
+>>>> New Wait Time: 3.44897
+
+
+1076 sprog failed.
+>> Chance: 0.197499
+>> Roll: 0.690002
+>>>> New Wait Time: 3.66364
+
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.720062
+>>>> New Wait Time: 3.9342
+
+1092 is attempting settling at: 21, 23
+Settling failed at: 21, 23
+1092 has a new Settling delay of 5.35379
+1093 is attempting settling at: 26, 8
+Settling Succeeded at: 26, 8
+New entity: 1109
+
+1059 sprog failed.
+>> Chance: 0.192876
+>> Roll: 0.841492
+>>>> New Wait Time: 4.18713
+
+
+1098 sprog failed.
+>> Chance: 0.398612
+>> Roll: 0.587128
+>>>> New Wait Time: 4.81006
+
+
+1054 sprog failed.
+>> Chance: 0.345132
+>> Roll: 0.406067
+>>>> New Wait Time: 4.99951
+
+1079 is attempting settling at: 8, 13
+Settling failed at: 8, 13
+1079 has a new Settling delay of 2.32217
+1080 is attempting settling at: 16, 19
+Settling failed at: 16, 19
+1080 has a new Settling delay of 3.09198
+
+1060 sprog failed.
+>> Chance: 0.34413
+>> Roll: 0.391022
+>>>> New Wait Time: 3.66724
+
+
+1058 sprog failed.
+>> Chance: 0.38108
+>> Roll: 0.620178
+>>>> New Wait Time: 3.13873
+
+
+1081 sprog failed.
+>> Chance: 0.241059
+>> Roll: 0.736664
+>>>> New Wait Time: 4.10236
+
+1096 is attempting settling at: 24, 6
+Settling failed at: 24, 6
+1096 has a new Settling delay of 2.35162
+1047 is attempting settling at: 16, 22
+Settling Succeeded at: 16, 22
+New entity: 1111
+
+1068 sprog failed.
+>> Chance: 0.342586
+>> Roll: 0.428619
+>>>> New Wait Time: 4.0907
+
+1090 is attempting settling at: 19, 23
+Settling failed at: 19, 23
+1090 has a new Settling delay of 5.47052
+1097 is attempting settling at: 14, 19
+Settling failed at: 14, 19
+1097 has a new Settling delay of 2.59454
+
+1074 sprog failed.
+>> Chance: 0.192367
+>> Roll: 0.900085
+>>>> New Wait Time: 3.60645
+
+
+1072 sprog failed.
+>> Chance: 0.30614
+>> Roll: 0.540344
+>>>> New Wait Time: 4.27661
+
+1079 is attempting settling at: 24, 24
+Settling failed at: 24, 24
+1079 has a new Settling delay of 1.64728
+
+1076 sprog failed.
+>> Chance: 0.310288
+>> Roll: 0.627136
+>>>> New Wait Time: 4.10376
+
+
+1055 sprog failed.
+>> Chance: 0.236433
+>> Roll: 0.970215
+>>>> New Wait Time: 3.09796
+
+1083 is attempting settling at: 24, 6
+Settling failed at: 24, 6
+1083 has a new Settling delay of 5.19312
+1100 is attempting settling at: 21, 17
+Settling failed at: 21, 17
+1100 has a new Settling delay of 4.40149
+
+1086 sprog failed.
+>> Chance: 0.194466
+>> Roll: 0.964325
+>>>> New Wait Time: 4.36884
+
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.669922
+>>>> New Wait Time: 4.90161
+
+1101 is attempting settling at: 4, 11
+Settling Succeeded at: 4, 11
+New entity: 1113
+1091 is attempting settling at: 28, 4
+Settling Succeeded at: 28, 4
+New entity: 1115
+1096 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1096 has a new Settling delay of 2.06842
+1080 is attempting settling at: 18, 15
+Settling Succeeded at: 18, 15
+New entity: 1117
+1079 is attempting settling at: 14, 24
+Settling Succeeded at: 14, 24
+New entity: 1119
+
+1059 sprog failed.
+>> Chance: 0.32211
+>> Roll: 0.937286
+>>>> New Wait Time: 4.99805
+
+
+1058 sprog failed.
+>> Chance: 0.477972
+>> Roll: 0.803497
+>>>> New Wait Time: 4.93231
+
+
+1060 sprogged.
+>> Chance: 0.456977
+>> Roll: 0.372498
+
+1121: Spawned with 9.30087 starting energy.
+1102 is attempting settling at: 8, 4
+Settling Succeeded at: 8, 4
+New entity: 1122
+
+1109 sprog failed.
+>> Chance: 0.461765
+>> Roll: 0.994934
+>>>> New Wait Time: 3.87207
+
+1097 is attempting settling at: 27, 24
+Settling failed at: 27, 24
+1097 has a new Settling delay of 5.20944
+
+1098 sprogged.
+>> Chance: 0.5
+>> Roll: 0.336426
+
+1124: Spawned with 10 starting energy.
+1092 is attempting settling at: 17, 5
+Settling failed at: 17, 5
+1092 has a new Settling delay of 1.54581
+
+1054 sprogged.
+>> Chance: 0.498991
+>> Roll: 0.144867
+
+1125: Spawned with 9.9836 starting energy.
+
+1070 sprog failed.
+>> Chance: 0.25133
+>> Roll: 0.280304
+>>>> New Wait Time: 4.55701
+
+
+1081 sprog failed.
+>> Chance: 0.367715
+>> Roll: 0.648254
+>>>> New Wait Time: 4.5105
+
+
+1094 sprog failed.
+>> Chance: 0.217998
+>> Roll: 0.808746
+>>>> New Wait Time: 3.25183
+
+1096 is attempting settling at: 9, 25
+Settling failed at: 9, 25
+1096 has a new Settling delay of 5.95453
+
+1074 sprogged.
+>> Chance: 0.303616
+>> Roll: 0.0492859
+
+1126: Spawned with 6.80876 starting energy.
+
+1055 sprog failed.
+>> Chance: 0.331825
+>> Roll: 0.997955
+>>>> New Wait Time: 3.0658
+
+
+1068 sprog failed.
+>> Chance: 0.468755
+>> Roll: 0.744263
+>>>> New Wait Time: 3.44666
+
+1092 is attempting settling at: 6, 12
+Settling Succeeded at: 6, 12
+New entity: 1127
+
+1111 sprog failed.
+>> Chance: 0.206993
+>> Roll: 0.928589
+>>>> New Wait Time: 4.40991
+
+
+1072 sprogged.
+>> Chance: 0.437962
+>> Roll: 0.0601196
+
+1129: Spawned with 8.99189 starting energy.
+
+1076 sprogged.
+>> Chance: 0.436998
+>> Roll: 0.39978
+
+1130: Spawned with 8.97621 starting energy.
+1105 is attempting settling at: 22, 15
+Settling Succeeded at: 22, 15
+New entity: 1131
+
+1113 sprog failed.
+>> Chance: 0.42736
+>> Roll: 0.944489
+>>>> New Wait Time: 3.66211
+
+1106 is attempting settling at: 11, 22
+Settling failed at: 11, 22
+1106 has a new Settling delay of 5.30206
+1100 is attempting settling at: 3, 11
+Settling Succeeded at: 3, 11
+New entity: 1133
+
+1086 sprog failed.
+>> Chance: 0.32922
+>> Roll: 0.522369
+>>>> New Wait Time: 4.12543
+
+
+1117 sprogged.
+>> Chance: 0.302465
+>> Roll: 0.282532
+
+1135: Spawned with 6.79005 starting energy.
+1090 is attempting settling at: 5, 20
+Settling Succeeded at: 5, 20
+New entity: 1136
+
+1122 sprog failed.
+>> Chance: 0.226772
+>> Roll: 0.533539
+>>>> New Wait Time: 3.93915
+
+1107 is attempting settling at: 10, 25
+Settling failed at: 10, 25
+1107 has a new Settling delay of 3.42432
+
+1119 sprog failed.
+>> Chance: 0.273078
+>> Roll: 0.641724
+>>>> New Wait Time: 4.43323
+
+1083 is attempting settling at: 2, 22
+Settling failed at: 2, 22
+1083 has a new Settling delay of 3.06207
+
+1084 sprog failed.
+>> Chance: 0.226697
+>> Roll: 0.412628
+>>>> New Wait Time: 3.20374
+
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.606537
+>>>> New Wait Time: 4.89825
+
+1108 is attempting settling at: 11, 25
+Settling Succeeded at: 11, 25
+New entity: 1138
+
+1057 sprog failed.
+>> Chance: 0.238939
+>> Roll: 0.984283
+>>>> New Wait Time: 4.30408
+
+
+1115 sprog failed.
+>> Chance: 0.315788
+>> Roll: 0.924652
+>>>> New Wait Time: 4.93396
+
+
+1103 sprog failed.
+>> Chance: 0.202611
+>> Roll: 0.689545
+>>>> New Wait Time: 3.22266
+
+
+1109 sprogged.
+>> Chance: 0.5
+>> Roll: 0.208344
+
+1140: Spawned with 10 starting energy.
+
+1094 sprog failed.
+>> Chance: 0.318526
+>> Roll: 0.386047
+>>>> New Wait Time: 4.3728
+
+
+1055 sprogged.
+>> Chance: 0.426219
+>> Roll: 0.164886
+
+1141: Spawned with 8.80105 starting energy.
+
+1059 sprogged.
+>> Chance: 0.475971
+>> Roll: 0.36499
+
+1142: Spawned with 9.60952 starting energy.
+
+1058 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0661926
+
+
+1088 sprogged.
+>> Chance: 0.229224
+>> Roll: 0.187286
+
+1143: Spawned with 10 starting energy.
+1144: Spawned with 5.59989 starting energy.
+
+1068 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.88974
+>>>> New Wait Time: 3.59668
+
+
+1070 sprogged.
+>> Chance: 0.391849
+>> Roll: 0.315277
+
+1145: Spawned with 8.24255 starting energy.
+
+1081 sprogged.
+>> Chance: 0.5
+>> Roll: 0.00775146
+
+1146: Spawned with 10 starting energy.
+1097 is attempting settling at: 19, 1
+Settling Succeeded at: 19, 1
+New entity: 1147
+
+1131 sprogged.
+>> Chance: 0.422066
+>> Roll: 0.0909729
+
+1149: Spawned with 8.73357 starting energy.
+
+1113 sprogged.
+>> Chance: 0.5
+>> Roll: 0.147278
+
+1150: Spawned with 10 starting energy.
+
+1111 sprogged.
+>> Chance: 0.342898
+>> Roll: 0.243042
+
+1151: Spawned with 7.44709 starting energy.
+
+1127 sprog failed.
+>> Chance: 0.212204
+>> Roll: 0.853882
+>>>> New Wait Time: 3.44019
+
+1083 is attempting settling at: 27, 10
+Settling failed at: 27, 10
+1083 has a new Settling delay of 2.64291
+
+1084 sprog failed.
+>> Chance: 0.325668
+>> Roll: 0.808105
+>>>> New Wait Time: 3.20416
+
+1107 is attempting settling at: 21, 8
+Settling Succeeded at: 21, 8
+New entity: 1152
+
+1138 sprog failed.
+>> Chance: 0.271734
+>> Roll: 0.702942
+>>>> New Wait Time: 4.06622
+
+
+1122 sprog failed.
+>> Chance: 0.348311
+>> Roll: 0.844086
+>>>> New Wait Time: 4.50543
+
+
+1086 sprog failed.
+>> Chance: 0.456488
+>> Roll: 0.59137
+>>>> New Wait Time: 3.72717
+
+
+1103 sprog failed.
+>> Chance: 0.302082
+>> Roll: 0.73642
+>>>> New Wait Time: 3.7738
+
+1096 is attempting settling at: 26, 27
+Settling Succeeded at: 26, 27
+New entity: 1154
+
+1136 sprog failed.
+>> Chance: 0.274655
+>> Roll: 0.504089
+>>>> New Wait Time: 4.55353
+
+1106 is attempting settling at: 17, 12
+Settling failed at: 17, 12
+1106 has a new Settling delay of 3.90054
+
+1133 sprog failed.
+>> Chance: 0.289408
+>> Roll: 0.701752
+>>>> New Wait Time: 4.27704
+
+
+1119 sprog failed.
+>> Chance: 0.409512
+>> Roll: 0.430695
+>>>> New Wait Time: 4.83118
+
+
+1057 sprogged.
+>> Chance: 0.371759
+>> Roll: 0.188202
+
+1156: Spawned with 7.91608 starting energy.
+
+1056 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0869446
+
+1157: Spawned with 10 starting energy.
+
+1094 sprogged.
+>> Chance: 0.453383
+>> Roll: 0.2211
+
+1158: Spawned with 9.24248 starting energy.
+
+1068 sprogged.
+>> Chance: 0.5
+>> Roll: 0.3237
+
+1159: Spawned with 10 starting energy.
+
+1115 sprog failed.
+>> Chance: 0.468105
+>> Roll: 0.711884
+>>>> New Wait Time: 4.82343
+
+
+1147 sprog failed.
+>> Chance: 0.331156
+>> Roll: 0.868134
+>>>> New Wait Time: 3.742
+
+1083 is attempting settling at: 25, 9
+Settling Succeeded at: 25, 9
+New entity: 1160
+1121 is attempting settling at: 24, 5
+Settling Succeeded at: 24, 5
+New entity: 1162
+
+1084 sprogged.
+>> Chance: 0.424669
+>> Roll: 0.0072937
+
+
+1127 sprogged.
+>> Chance: 0.318381
+>> Roll: 0.157288
+
+1164: Spawned with 8.77588 starting energy.
+1165: Spawned with 7.0487 starting energy.
+1124 is attempting settling at: 5, 11
+Settling failed at: 5, 11
+1124 has a new Settling delay of 4.47107
+1125 is attempting settling at: 13, 11
+Settling Succeeded at: 13, 11
+New entity: 1166
+
+1060 sprog failed.
+>> Chance: 0.219499
+>> Roll: 0.871063
+>>>> New Wait Time: 4.33411
+
+
+1086 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0500488
+
+1168: Spawned with 10 starting energy.
+
+1138 sprogged.
+>> Chance: 0.396891
+>> Roll: 0.181946
+
+1169: Spawned with 8.32448 starting energy.
+
+1054 sprogged.
+>> Chance: 0.20367
+>> Roll: 0.0704346
+
+1170: Spawned with 5.18463 starting energy.
+
+1103 sprogged.
+>> Chance: 0.419186
+>> Roll: 0.207336
+
+1171: Spawned with 8.68677 starting energy.
+1126 is attempting settling at: 23, 26
+Settling Succeeded at: 23, 26
+New entity: 1172
+
+1152 sprogged.
+>> Chance: 0.411336
+>> Roll: 0.18158
+
+1174: Spawned with 8.5592 starting energy.
+
+1122 sprog failed.
+>> Chance: 0.487285
+>> Roll: 0.733215
+>>>> New Wait Time: 3.67908
+
+1106 is attempting settling at: 15, 11
+Settling Succeeded at: 15, 11
+New entity: 1175
+
+1098 sprog failed.
+>> Chance: 0.236432
+>> Roll: 0.85968
+>>>> New Wait Time: 3.16516
+
+
+1154 sprog failed.
+>> Chance: 0.332498
+>> Roll: 0.545837
+>>>> New Wait Time: 3.11572
+
+
+1136 sprogged.
+>> Chance: 0.415223
+>> Roll: 0.143524
+
+1177: Spawned with 8.62237 starting energy.
+
+1074 sprog failed.
+>> Chance: 0.217969
+>> Roll: 0.412109
+>>>> New Wait Time: 3.60443
+
+1129 is attempting settling at: 5, 7
+Settling failed at: 5, 7
+1129 has a new Settling delay of 3.08206
+
+1133 sprogged.
+>> Chance: 0.421204
+>> Roll: 0.104034
+
+1178: Spawned with 8.71957 starting energy.
+1130 is attempting settling at: 23, 13
+Settling failed at: 23, 13
+1130 has a new Settling delay of 4.44498
+
+1119 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0956726
+
+1179: Spawned with 10 starting energy.
+
+1147 sprog failed.
+>> Chance: 0.44656
+>> Roll: 0.496582
+>>>> New Wait Time: 3.77191
+
+1135 is attempting settling at: 18, 11
+Settling Succeeded at: 18, 11
+New entity: 1180
+
+1072 sprogged.
+>> Chance: 0.225645
+>> Roll: 0.116425
+
+1182: Spawned with 5.54172 starting energy.
+
+1162 sprog failed.
+>> Chance: 0.382827
+>> Roll: 0.62085
+>>>> New Wait Time: 3.43958
+
+
+1115 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0760803
+
+1183: Spawned with 10 starting energy.
+
+1117 sprog failed.
+>> Chance: 0.211239
+>> Roll: 0.415009
+>>>> New Wait Time: 3.99884
+
+
+1076 sprog failed.
+>> Chance: 0.245109
+>> Roll: 0.738312
+>>>> New Wait Time: 4.31665
+
+1140 is attempting settling at: 11, 7
+Settling failed at: 11, 7
+1140 has a new Settling delay of 5.07166
+
+1166 sprog failed.
+>> Chance: 0.430489
+>> Roll: 0.761414
+>>>> New Wait Time: 4.70502
+
+1141 is attempting settling at: 10, 6
+Settling failed at: 10, 6
+1141 has a new Settling delay of 3.22351
+
+1055 sprog failed.
+>> Chance: 0.197422
+>> Roll: 0.858765
+>>>> New Wait Time: 3.93896
+
+1142 is attempting settling at: 4, 17
+Settling failed at: 4, 17
+1142 has a new Settling delay of 5.17343
+1143 is attempting settling at: 15, 21
+Settling failed at: 15, 21
+1143 has a new Settling delay of 5.6199
+1144 is attempting settling at: 15, 18
+Settling failed at: 15, 18
+1144 has a new Settling delay of 2.35468
+1124 is attempting settling at: 17, 18
+Settling failed at: 17, 18
+1124 has a new Settling delay of 4.24234
+
+1098 sprog failed.
+>> Chance: 0.333876
+>> Roll: 0.680969
+>>>> New Wait Time: 4.42743
+
+
+1172 sprogged.
+>> Chance: 0.232537
+>> Roll: 0.00848389
+
+1184: Spawned with 5.65372 starting energy.
+
+1109 sprog failed.
+>> Chance: 0.221785
+>> Roll: 0.848511
+>>>> New Wait Time: 3.0473
+
+
+1154 sprog failed.
+>> Chance: 0.428402
+>> Roll: 0.640778
+>>>> New Wait Time: 3.96838
+
+
+1060 sprogged.
+>> Chance: 0.353373
+>> Roll: 0.0340881
+
+1185: Spawned with 7.6173 starting energy.
+1145 is attempting settling at: 8, 25
+Settling Succeeded at: 8, 25
+New entity: 1186
+1129 is attempting settling at: 14, 28
+Settling failed at: 14, 28
+1129 has a new Settling delay of 5.87778
+
+1122 sprogged.
+>> Chance: 0.5
+>> Roll: 0.160675
+
+1188: Spawned with 10 starting energy.
+1146 is attempting settling at: 8, 14
+Settling failed at: 8, 14
+1146 has a new Settling delay of 2.47934
+
+1160 sprogged.
+>> Chance: 0.199937
+>> Roll: 0.0534973
+
+1189: Spawned with 5.12397 starting energy.
+
+1074 sprog failed.
+>> Chance: 0.329561
+>> Roll: 0.983704
+>>>> New Wait Time: 4.24487
+
+1149 is attempting settling at: 21, 7
+Settling Succeeded at: 21, 7
+New entity: 1190
+1150 is attempting settling at: 11, 10
+Settling failed at: 11, 10
+1150 has a new Settling delay of 1.5896
+
+1059 sprog failed.
+>> Chance: 0.236423
+>> Roll: 0.564789
+>>>> New Wait Time: 3.18164
+
+
+1088 sprog failed.
+>> Chance: 0.23712
+>> Roll: 0.587952
+>>>> New Wait Time: 3.70416
+
+
+1175 sprog failed.
+>> Chance: 0.341451
+>> Roll: 0.563843
+>>>> New Wait Time: 4.11279
+
+
+1081 sprog failed.
+>> Chance: 0.219219
+>> Roll: 0.883514
+>>>> New Wait Time: 3.5022
+
+
+1058 sprog failed.
+>> Chance: 0.241807
+>> Roll: 0.498901
+>>>> New Wait Time: 4.41791
+
+1151 is attempting settling at: 14, 8
+Settling Succeeded at: 14, 8
+New entity: 1192
+
+1113 sprog failed.
+>> Chance: 0.211301
+>> Roll: 0.56958
+>>>> New Wait Time: 3.80933
+
+
+1147 sprogged.
+>> Chance: 0.5
+>> Roll: 0.261627
+
+1194: Spawned with 10 starting energy.
+1130 is attempting settling at: 23, 23
+Settling Succeeded at: 23, 23
+New entity: 1195
+
+1070 sprogged.
+>> Chance: 0.241034
+>> Roll: 0.107635
+
+1197: Spawned with 5.7918 starting energy.
+
+1162 sprogged.
+>> Chance: 0.488784
+>> Roll: 0.0778198
+
+1198: Spawned with 9.81774 starting energy.
+1144 is attempting settling at: 8, 20
+Settling failed at: 8, 20
+1144 has a new Settling delay of 1.12466
+
+1131 sprog failed.
+>> Chance: 0.238489
+>> Roll: 0.283569
+>>>> New Wait Time: 4.46924
+
+1150 is attempting settling at: 14, 6
+Settling Succeeded at: 14, 6
+New entity: 1199
+1141 is attempting settling at: 18, 15
+Settling failed at: 18, 15
+1141 has a new Settling delay of 2.97174
+
+1117 sprogged.
+>> Chance: 0.334414
+>> Roll: 0.278107
+
+1201: Spawned with 7.30922 starting energy.
+
+1180 sprog failed.
+>> Chance: 0.261926
+>> Roll: 0.678162
+>>>> New Wait Time: 3.12238
+
+1146 is attempting settling at: 16, 24
+Settling Succeeded at: 16, 24
+New entity: 1202
+
+1111 sprog failed.
+>> Chance: 0.233879
+>> Roll: 0.511047
+>>>> New Wait Time: 3.62085
+
+
+1109 sprogged.
+>> Chance: 0.315893
+>> Roll: 0.280304
+
+1204: Spawned with 7.00827 starting energy.
+1156 is attempting settling at: 20, 9
+Settling Succeeded at: 20, 9
+New entity: 1205
+1144 is attempting settling at: 4, 16
+Settling Succeeded at: 4, 16
+New entity: 1207
+
+1076 sprog failed.
+>> Chance: 0.377944
+>> Roll: 0.851074
+>>>> New Wait Time: 3.19843
+
+1157 is attempting settling at: 30, 2
+Settling Succeeded at: 30, 2
+New entity: 1209
+1158 is attempting settling at: 9, 7
+Settling Succeeded at: 9, 7
+New entity: 1211
+
+1055 sprog failed.
+>> Chance: 0.318963
+>> Roll: 0.390533
+>>>> New Wait Time: 3.55035
+
+1159 is attempting settling at: 20, 17
+Settling failed at: 20, 17
+1159 has a new Settling delay of 2.24634
+
+1186 sprog failed.
+>> Chance: 0.317186
+>> Roll: 0.369446
+>>>> New Wait Time: 3.66504
+
+
+1056 sprog failed.
+>> Chance: 0.202079
+>> Roll: 0.295319
+>>>> New Wait Time: 4.45129
+
+
+1154 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.735382
+>>>> New Wait Time: 4.17133
+
+
+1166 sprogged.
+>> Chance: 0.5
+>> Roll: 0.490417
+
+1213: Spawned with 10 starting energy.
+1124 is attempting settling at: 13, 22
+Settling failed at: 13, 22
+1124 has a new Settling delay of 1.45059
+1140 is attempting settling at: 30, 4
+Settling Succeeded at: 30, 4
+New entity: 1214
+
+1057 sprogged.
+>> Chance: 0.223106
+>> Roll: 0.187988
+
+1216: Spawned with 5.50048 starting energy.
+
+1059 sprogged.
+>> Chance: 0.334373
+>> Roll: 0.165405
+
+1217: Spawned with 7.30855 starting energy.
+
+1098 sprogged.
+>> Chance: 0.470292
+>> Roll: 0.168304
+
+1218: Spawned with 9.51724 starting energy.
+
+1081 sprog failed.
+>> Chance: 0.327237
+>> Roll: 0.800568
+>>>> New Wait Time: 3.14215
+
+1142 is attempting settling at: 12, 6
+Settling Succeeded at: 12, 6
+New entity: 1219
+
+1088 sprogged.
+>> Chance: 0.351311
+>> Roll: 0.17334
+
+1221: Spawned with 7.58381 starting energy.
+
+1094 sprog failed.
+>> Chance: 0.234881
+>> Roll: 0.704803
+>>>> New Wait Time: 3.68384
+
+1164 is attempting settling at: 6, 25
+Settling Succeeded at: 6, 25
+New entity: 1222
+1165 is attempting settling at: 7, 27
+Settling Succeeded at: 7, 27
+New entity: 1223
+
+1074 sprogged.
+>> Chance: 0.46056
+>> Roll: 0.221344
+
+
+1084 sprog failed.
+>> Chance: 0.19231
+>> Roll: 0.520599
+>>>> New Wait Time: 4.6767
+
+1226: Spawned with 9.3591 starting energy.
+1143 is attempting settling at: 3, 20
+Settling Succeeded at: 3, 20
+New entity: 1227
+
+1175 sprogged.
+>> Chance: 0.468224
+>> Roll: 0.453674
+
+1229: Spawned with 9.48364 starting energy.
+
+1068 sprog failed.
+>> Chance: 0.244116
+>> Roll: 0.392761
+>>>> New Wait Time: 3.5235
+
+
+1113 sprog failed.
+>> Chance: 0.328741
+>> Roll: 0.430511
+>>>> New Wait Time: 4.73505
+
+1124 is attempting settling at: 18, 17
+Settling Succeeded at: 18, 17
+New entity: 1230
+
+1192 sprog failed.
+>> Chance: 0.284104
+>> Roll: 0.702454
+>>>> New Wait Time: 3.61749
+
+1141 is attempting settling at: 15, 7
+Settling failed at: 15, 7
+1141 has a new Settling delay of 1.69534
+
+1058 sprog failed.
+>> Chance: 0.377987
+>> Roll: 0.448761
+>>>> New Wait Time: 4.47943
+
+
+1190 sprog failed.
+>> Chance: 0.390577
+>> Roll: 0.640076
+>>>> New Wait Time: 4.37531
+
+
+1180 sprogged.
+>> Chance: 0.358083
+>> Roll: 0.321808
+
+1232: Spawned with 7.69386 starting energy.
+1168 is attempting settling at: 12, 6
+Settling failed at: 12, 6
+1168 has a new Settling delay of 4.42606
+
+1195 sprog failed.
+>> Chance: 0.327029
+>> Roll: 0.953644
+>>>> New Wait Time: 4.17108
+
+1159 is attempting settling at: 20, 17
+Settling failed at: 20, 17
+1159 has a new Settling delay of 4.90045
+1169 is attempting settling at: 15, 8
+Settling failed at: 15, 8
+1169 has a new Settling delay of 2.10062
+1170 is attempting settling at: 18, 19
+Settling Succeeded at: 18, 19
+New entity: 1233
+1171 is attempting settling at: 17, 20
+Settling failed at: 17, 20
+1171 has a new Settling delay of 4.55331
+1129 is attempting settling at: 4, 17
+Settling failed at: 4, 17
+1129 has a new Settling delay of 4.89038
+
+1199 sprog failed.
+>> Chance: 0.407718
+>> Roll: 0.802246
+>>>> New Wait Time: 4.57043
+
+1174 is attempting settling at: 11, 10
+Settling failed at: 11, 10
+1174 has a new Settling delay of 2.35178
+
+1127 sprog failed.
+>> Chance: 0.233467
+>> Roll: 0.532684
+>>>> New Wait Time: 4.21954
+
+
+1076 sprogged.
+>> Chance: 0.476564
+>> Roll: 0.396729
+
+1235: Spawned with 9.61917 starting energy.
+
+1111 sprogged.
+>> Chance: 0.345536
+>> Roll: 0.100861
+
+
+1138 sprog failed.
+>> Chance: 0.210116
+>> Roll: 0.544403
+>>>> New Wait Time: 3.51056
+
+1236: Spawned with 7.48996 starting energy.
+
+1202 sprog failed.
+>> Chance: 0.399532
+>> Roll: 0.838928
+>>>> New Wait Time: 4.698
+
+
+1103 sprogged.
+>> Chance: 0.212188
+>> Roll: 0.0244141
+
+1237: Spawned with 5.32306 starting energy.
+
+1131 sprog failed.
+>> Chance: 0.376416
+>> Roll: 0.979889
+>>>> New Wait Time: 3.12463
+
+
+1205 sprogged.
+>> Chance: 0.304656
+>> Roll: 0.0632935
+
+1238: Spawned with 6.82567 starting energy.
+1177 is attempting settling at: 4, 4
+Settling Succeeded at: 4, 4
+New entity: 1239
+
+1055 sprogged.
+>> Chance: 0.428879
+>> Roll: 0.108551
+
+1241: Spawned with 8.84428 starting energy.
+1178 is attempting settling at: 16, 8
+Settling Succeeded at: 16, 8
+New entity: 1242
+
+1211 sprog failed.
+>> Chance: 0.384328
+>> Roll: 0.409851
+>>>> New Wait Time: 3.95312
+
+1141 is attempting settling at: 11, 3
+Settling Succeeded at: 11, 3
+New entity: 1244
+
+1186 sprog failed.
+>> Chance: 0.430069
+>> Roll: 0.483093
+>>>> New Wait Time: 3.02075
+
+
+1054 sprogged.
+>> Chance: 0.246649
+>> Roll: 0.0235291
+
+1246: Spawned with 5.88305 starting energy.
+1179 is attempting settling at: 7, 15
+Settling Succeeded at: 7, 15
+New entity: 1247
+
+1086 sprogged.
+>> Chance: 0.252884
+>> Roll: 0.013855
+
+1249: Spawned with 5.98436 starting energy.
+
+1152 sprog failed.
+>> Chance: 0.239738
+>> Roll: 0.940369
+>>>> New Wait Time: 3.90002
+
+
+1081 sprogged.
+>> Chance: 0.424916
+>> Roll: 0.0595398
+
+1250: Spawned with 8.77989 starting energy.
+1169 is attempting settling at: 7, 23
+Settling failed at: 7, 23
+1169 has a new Settling delay of 3.24472
+
+1154 sprogged.
+>> Chance: 0.5
+>> Roll: 0.424286
+
+1251: Spawned with 10 starting energy.
+
+1056 sprog failed.
+>> Chance: 0.339283
+>> Roll: 0.754883
+>>>> New Wait Time: 4.62915
+
+
+1219 sprog failed.
+>> Chance: 0.334721
+>> Roll: 0.805206
+>>>> New Wait Time: 3.35431
+
+1182 is attempting settling at: 8, 13
+Settling failed at: 8, 13
+1182 has a new Settling delay of 3.27051
+
+1209 sprog failed.
+>> Chance: 0.465344
+>> Roll: 0.942657
+>>>> New Wait Time: 4.98517
+
+
+1072 sprog failed.
+>> Chance: 0.19818
+>> Roll: 0.518829
+>>>> New Wait Time: 3.19305
+
+
+1136 sprog failed.
+>> Chance: 0.241005
+>> Roll: 0.395966
+>>>> New Wait Time: 4.31403
+
+
+1094 sprog failed.
+>> Chance: 0.348345
+>> Roll: 0.961365
+>>>> New Wait Time: 4.43372
+
+1183 is attempting settling at: 7, 15
+Settling failed at: 7, 15
+1183 has a new Settling delay of 2.59348
+
+1119 sprog failed.
+>> Chance: 0.219511
+>> Roll: 0.891327
+>>>> New Wait Time: 4.88904
+
+1174 is attempting settling at: 8, 25
+Settling failed at: 8, 25
+1174 has a new Settling delay of 2.56082
+
+1214 sprog failed.
+>> Chance: 0.395922
+>> Roll: 0.571686
+>>>> New Wait Time: 4.67108
+
+
+1133 sprogged.
+>> Chance: 0.243109
+>> Roll: 0.216919
+
+
+1222 sprog failed.
+>> Chance: 0.359219
+>> Roll: 0.601959
+>>>> New Wait Time: 4.01672
+
+1252: Spawned with 5.82551 starting energy.
+
+1068 sprogged.
+>> Chance: 0.352823
+>> Roll: 0.342896
+
+1253: Spawned with 7.60838 starting energy.
+
+1192 sprog failed.
+>> Chance: 0.395556
+>> Roll: 0.41452
+>>>> New Wait Time: 4.54572
+
+
+1230 sprog failed.
+>> Chance: 0.304434
+>> Roll: 0.477448
+>>>> New Wait Time: 3.69312
+
+
+1223 sprog failed.
+>> Chance: 0.268331
+>> Roll: 0.637695
+>>>> New Wait Time: 4.3299
+
+
+1084 sprog failed.
+>> Chance: 0.336471
+>> Roll: 0.703247
+>>>> New Wait Time: 3.49609
+
+
+1227 sprogged.
+>> Chance: 0.383223
+>> Roll: 0.187958
+
+1254: Spawned with 8.10237 starting energy.
+
+1131 sprog failed.
+>> Chance: 0.472614
+>> Roll: 0.766907
+>>>> New Wait Time: 3.95764
+
+1184 is attempting settling at: 19, 27
+Settling failed at: 19, 27
+1184 has a new Settling delay of 1.7814
+
+1138 sprogged.
+>> Chance: 0.318462
+>> Roll: 0.260223
+
+1255: Spawned with 7.05 starting energy.
+
+1195 sprog failed.
+>> Chance: 0.455511
+>> Roll: 0.616364
+>>>> New Wait Time: 3.25177
+
+
+1115 sprog failed.
+>> Chance: 0.236997
+>> Roll: 0.781555
+>>>> New Wait Time: 4.44843
+
+
+1190 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.577118
+>>>> New Wait Time: 3.43805
+
+1185 is attempting settling at: 24, 14
+Settling Succeeded at: 24, 14
+New entity: 1256
+
+1058 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.644745
+>>>> New Wait Time: 3.63367
+
+
+1113 sprogged.
+>> Chance: 0.474964
+>> Roll: 0.29303
+
+1258: Spawned with 9.59317 starting energy.
+1168 is attempting settling at: 22, 4
+Settling Succeeded at: 22, 4
+New entity: 1259
+1188 is attempting settling at: 2, 19
+Settling failed at: 2, 19
+1188 has a new Settling delay of 5.86206
+
+1186 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.871796
+>>>> New Wait Time: 3.52094
+
+
+1060 sprog failed.
+>> Chance: 0.201352
+>> Roll: 0.594513
+>>>> New Wait Time: 3.72485
+
+1189 is attempting settling at: 19, 5
+Settling failed at: 19, 5
+1189 has a new Settling delay of 1.45609
+1171 is attempting settling at: 15, 26
+Settling Succeeded at: 15, 26
+New entity: 1261
+
+1127 sprog failed.
+>> Chance: 0.363596
+>> Roll: 0.907776
+>>>> New Wait Time: 4.8858
+
+
+1242 sprog failed.
+>> Chance: 0.343621
+>> Roll: 0.64801
+>>>> New Wait Time: 4.55811
+
+
+1199 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.597473
+>>>> New Wait Time: 3.56171
+
+1159 is attempting settling at: 15, 11
+Settling failed at: 15, 11
+1159 has a new Settling delay of 5.70322
+1129 is attempting settling at: 8, 10
+Settling Succeeded at: 8, 10
+New entity: 1263
+
+1207 sprog failed.
+>> Chance: 0.247446
+>> Roll: 0.661194
+>>>> New Wait Time: 3.40271
+
+1183 is attempting settling at: 20, 23
+Settling failed at: 20, 23
+1183 has a new Settling delay of 1.37674
+
+1211 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.555054
+>>>> New Wait Time: 4.01349
+
+
+1202 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.859467
+>>>> New Wait Time: 3.42572
+
+1174 is attempting settling at: 10, 9
+Settling Succeeded at: 10, 9
+New entity: 1265
+1169 is attempting settling at: 12, 23
+Settling Succeeded at: 12, 23
+New entity: 1267
+
+1122 sprog failed.
+>> Chance: 0.225141
+>> Roll: 0.877838
+>>>> New Wait Time: 3.19354
+
+
+1244 sprog failed.
+>> Chance: 0.273254
+>> Roll: 0.584106
+>>>> New Wait Time: 3.17944
+
+1182 is attempting settling at: 19, 18
+Settling failed at: 19, 18
+1182 has a new Settling delay of 3.51877
+
+1239 sprogged.
+>> Chance: 0.371111
+>> Roll: 0.228302
+
+1269: Spawned with 7.90556 starting energy.
+
+1219 sprog failed.
+>> Chance: 0.438048
+>> Roll: 0.840759
+>>>> New Wait Time: 3.20605
+
+1194 is attempting settling at: 20, 8
+Settling failed at: 20, 8
+1194 has a new Settling delay of 5.42749
+
+1072 sprog failed.
+>> Chance: 0.296546
+>> Roll: 0.337616
+>>>> New Wait Time: 4.99725
+
+1184 is attempting settling at: 23, 12
+Settling Succeeded at: 23, 12
+New entity: 1270
+1197 is attempting settling at: 7, 14
+Settling failed at: 7, 14
+1197 has a new Settling delay of 4.79898
+
+1172 sprog failed.
+>> Chance: 0.2483
+>> Roll: 0.949432
+>>>> New Wait Time: 3.11475
+
+
+1152 sprogged.
+>> Chance: 0.359995
+>> Roll: 0.134064
+
+1272: Spawned with 7.72492 starting energy.
+
+1247 sprogged.
+>> Chance: 0.43971
+>> Roll: 0.242188
+
+1273: Spawned with 9.02028 starting energy.
+1189 is attempting settling at: 10, 11
+Settling Succeeded at: 10, 11
+New entity: 1274
+1198 is attempting settling at: 23, 7
+Settling failed at: 23, 7
+1198 has a new Settling delay of 2.29486
+
+1160 sprogged.
+>> Chance: 0.248749
+>> Roll: 0.238464
+
+1276: Spawned with 5.91718 starting energy.
+
+1147 sprog failed.
+>> Chance: 0.21899
+>> Roll: 0.261902
+>>>> New Wait Time: 3.33545
+
+
+1070 sprog failed.
+>> Chance: 0.217957
+>> Roll: 0.806885
+>>>> New Wait Time: 3.13135
+
+
+1162 sprogged.
+>> Chance: 0.212634
+>> Roll: 0.0279541
+
+1277: Spawned with 5.3303 starting energy.
+1183 is attempting settling at: 7, 26
+Settling failed at: 7, 26
+1183 has a new Settling delay of 1.73227
+1201 is attempting settling at: 4, 11
+Settling failed at: 4, 11
+1201 has a new Settling delay of 2.40472
+
+1222 sprog failed.
+>> Chance: 0.482963
+>> Roll: 0.763733
+>>>> New Wait Time: 4.34686
+
+
+1056 sprogged.
+>> Chance: 0.482189
+>> Roll: 0.250549
+
+
+1136 sprogged.
+>> Chance: 0.373949
+>> Roll: 0.0414124
+
+1278: Spawned with 9.71058 starting energy.
+1279: Spawned with 7.95166 starting energy.
+
+1230 sprog failed.
+>> Chance: 0.418287
+>> Roll: 0.69397
+>>>> New Wait Time: 4.56525
+
+1204 is attempting settling at: 21, 15
+Settling Succeeded at: 21, 15
+New entity: 1280
+
+1094 sprogged.
+>> Chance: 0.485151
+>> Roll: 0.278534
+
+1282: Spawned with 9.7587 starting energy.
+
+1233 sprog failed.
+>> Chance: 0.239699
+>> Roll: 0.39563
+>>>> New Wait Time: 3.44135
+
+
+1084 sprogged.
+>> Chance: 0.444162
+>> Roll: 0.353455
+
+1283: Spawned with 9.09263 starting energy.
+
+1195 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.84491
+>>>> New Wait Time: 4.74298
+
+
+1209 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.772217
+>>>> New Wait Time: 3.01379
+
+
+1214 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.5224
+>>>> New Wait Time: 4.20288
+
+
+1190 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.936066
+>>>> New Wait Time: 3.98907
+
+
+1119 sprog failed.
+>> Chance: 0.37001
+>> Roll: 0.684082
+>>>> New Wait Time: 4.03198
+
+
+1223 sprogged.
+>> Chance: 0.40194
+>> Roll: 0.0980225
+
+
+1256 sprog failed.
+>> Chance: 0.278469
+>> Roll: 0.442017
+>>>> New Wait Time: 4.92999
+
+1284: Spawned with 8.40652 starting energy.
+
+1192 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.756744
+>>>> New Wait Time: 3.65411
+
+
+1058 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.663177
+>>>> New Wait Time: 3.13574
+
+
+1131 sprogged.
+>> Chance: 0.5
+>> Roll: 0.451874
+
+
+1261 sprog failed.
+>> Chance: 0.279419
+>> Roll: 0.49353
+>>>> New Wait Time: 3.6485
+
+1285: Spawned with 10 starting energy.
+
+1186 sprogged.
+>> Chance: 0.5
+>> Roll: 0.187317
+
+1286: Spawned with 10 starting energy.
+1213 is attempting settling at: 18, 13
+Settling failed at: 18, 13
+1213 has a new Settling delay of 5.1716
+
+1109 sprog failed.
+>> Chance: 0.225164
+>> Roll: 0.507904
+>>>> New Wait Time: 4.94232
+
+1216 is attempting settling at: 19, 21
+Settling failed at: 19, 21
+1216 has a new Settling delay of 5.28253
+
+1060 sprog failed.
+>> Chance: 0.31604
+>> Roll: 0.321472
+>>>> New Wait Time: 3.58789
+
+
+1117 sprog failed.
+>> Chance: 0.239536
+>> Roll: 0.92865
+>>>> New Wait Time: 3.70886
+
+1217 is attempting settling at: 18, 7
+Settling failed at: 18, 7
+1217 has a new Settling delay of 1.28336
+1198 is attempting settling at: 18, 20
+Settling failed at: 18, 20
+1198 has a new Settling delay of 4.22784
+
+1199 sprogged.
+>> Chance: 0.5
+>> Roll: 0.341156
+
+1287: Spawned with 10 starting energy.
+1183 is attempting settling at: 23, 28
+Settling Succeeded at: 23, 28
+New entity: 1288
+1218 is attempting settling at: 17, 16
+Settling failed at: 17, 16
+1218 has a new Settling delay of 2.89194
+
+1207 sprog failed.
+>> Chance: 0.352679
+>> Roll: 0.721069
+>>>> New Wait Time: 3.04358
+
+
+1115 sprog failed.
+>> Chance: 0.374037
+>> Roll: 0.587311
+>>>> New Wait Time: 4.9118
+
+
+1122 sprog failed.
+>> Chance: 0.323589
+>> Roll: 0.798889
+>>>> New Wait Time: 3.0777
+
+
+1057 sprog failed.
+>> Chance: 0.207703
+>> Roll: 0.921112
+>>>> New Wait Time: 4.62854
+
+
+1202 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.517975
+>>>> New Wait Time: 4.38428
+
+
+1244 sprog failed.
+>> Chance: 0.371108
+>> Roll: 0.995636
+>>>> New Wait Time: 4.33051
+
+1221 is attempting settling at: 15, 18
+Settling failed at: 15, 18
+1221 has a new Settling delay of 5.91257
+
+1219 sprogged.
+>> Chance: 0.5
+>> Roll: 0.364014
+
+1290: Spawned with 10 starting energy.
+
+1172 sprog failed.
+>> Chance: 0.344315
+>> Roll: 0.755371
+>>>> New Wait Time: 3.81659
+
+
+1259 sprogged.
+>> Chance: 0.405229
+>> Roll: 0.26059
+
+1291: Spawned with 8.45998 starting energy.
+1226 is attempting settling at: 7, 22
+Settling failed at: 7, 22
+1226 has a new Settling delay of 2.23596
+1182 is attempting settling at: 5, 9
+Settling Succeeded at: 5, 9
+New entity: 1292
+1201 is attempting settling at: 27, 21
+Settling Succeeded at: 27, 21
+New entity: 1294
+
+1242 sprogged.
+>> Chance: 0.483927
+>> Roll: 0.250427
+
+1296: Spawned with 9.73881 starting energy.
+
+1211 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.924988
+>>>> New Wait Time: 3.92566
+
+
+1267 sprog failed.
+>> Chance: 0.2698
+>> Roll: 0.505371
+>>>> New Wait Time: 4.56982
+
+1229 is attempting settling at: 16, 22
+Settling failed at: 16, 22
+1229 has a new Settling delay of 4.10089
+
+1265 sprog failed.
+>> Chance: 0.291867
+>> Roll: 0.379425
+>>>> New Wait Time: 4.89362
+
+
+1166 sprog failed.
+>> Chance: 0.235041
+>> Roll: 0.769409
+>>>> New Wait Time: 3.81848
+
+
+1127 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.573639
+>>>> New Wait Time: 4.42639
+
+1217 is attempting settling at: 25, 4
+Settling failed at: 25, 4
+1217 has a new Settling delay of 5.78745
+
+1059 sprog failed.
+>> Chance: 0.232561
+>> Roll: 0.629211
+>>>> New Wait Time: 4.15161
+
+
+1074 sprog failed.
+>> Chance: 0.213883
+>> Roll: 0.816193
+>>>> New Wait Time: 4.07697
+
+
+1070 sprog failed.
+>> Chance: 0.314386
+>> Roll: 0.841583
+>>>> New Wait Time: 4.29791
+
+
+1098 sprogged.
+>> Chance: 0.235908
+>> Roll: 0.0267639
+
+1297: Spawned with 5.70851 starting energy.
+1232 is attempting settling at: 19, 12
+Settling failed at: 19, 12
+1232 has a new Settling delay of 5.31259
+
+1147 sprog failed.
+>> Chance: 0.322147
+>> Roll: 0.412323
+>>>> New Wait Time: 3.17548
+
+
+1280 sprog failed.
+>> Chance: 0.225893
+>> Roll: 0.335785
+>>>> New Wait Time: 3.25281
+
+1188 is attempting settling at: 3, 10
+Settling failed at: 3, 10
+1188 has a new Settling delay of 5.01627
+
+1209 sprogged.
+>> Chance: 0.5
+>> Roll: 0.17572
+
+1298: Spawned with 10 starting energy.
+1235 is attempting settling at: 10, 19
+Settling Succeeded at: 10, 19
+New entity: 1299
+1236 is attempting settling at: 8, 26
+Settling failed at: 8, 26
+1236 has a new Settling delay of 3.93167
+
+1263 sprog failed.
+>> Chance: 0.251544
+>> Roll: 0.829895
+>>>> New Wait Time: 4.96722
+
+1159 is attempting settling at: 11, 12
+Settling Succeeded at: 11, 12
+New entity: 1301
+1197 is attempting settling at: 22, 17
+Settling Succeeded at: 22, 17
+New entity: 1302
+
+1233 sprog failed.
+>> Chance: 0.34602
+>> Roll: 0.957031
+>>>> New Wait Time: 3.99109
+
+1237 is attempting settling at: 7, 14
+Settling failed at: 7, 14
+1237 has a new Settling delay of 3.40982
+
+1072 sprog failed.
+>> Chance: 0.450328
+>> Roll: 0.927582
+>>>> New Wait Time: 4.58783
+
+
+1111 sprog failed.
+>> Chance: 0.200375
+>> Roll: 0.79837
+>>>> New Wait Time: 4.15405
+
+
+1088 sprog failed.
+>> Chance: 0.253974
+>> Roll: 0.96933
+>>>> New Wait Time: 3.8783
+
+1238 is attempting settling at: 28, 0
+Settling Succeeded at: 28, 0
+New entity: 1305
+
+1058 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.582062
+>>>> New Wait Time: 4.80847
+
+
+1175 sprog failed.
+>> Chance: 0.242523
+>> Roll: 0.84198
+>>>> New Wait Time: 3.1817
+
+1194 is attempting settling at: 13, 10
+Settling failed at: 13, 10
+1194 has a new Settling delay of 3.89612
+1241 is attempting settling at: 8, 20
+Settling failed at: 8, 20
+1241 has a new Settling delay of 5.04343
+
+1222 sprogged.
+>> Chance: 0.5
+>> Roll: 0.474945
+
+1307: Spawned with 10 starting energy.
+1218 is attempting settling at: 14, 21
+Settling failed at: 14, 21
+1218 has a new Settling delay of 1.94009
+1226 is attempting settling at: 18, 15
+Settling failed at: 18, 15
+1226 has a new Settling delay of 4.24921
+
+1192 sprogged.
+>> Chance: 0.5
+>> Roll: 0.176971
+
+1308: Spawned with 10 starting energy.
+
+1261 sprogged.
+>> Chance: 0.391797
+>> Roll: 0.00949097
+
+1309: Spawned with 8.2417 starting energy.
+
+1230 sprogged.
+>> Chance: 0.5
+>> Roll: 0.408478
+
+1310: Spawned with 10 starting energy.
+
+1190 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.74826
+>>>> New Wait Time: 3.69354
+
+
+1207 sprog failed.
+>> Chance: 0.446703
+>> Roll: 0.730774
+>>>> New Wait Time: 3.99811
+
+
+1119 sprog failed.
+>> Chance: 0.494532
+>> Roll: 0.730652
+>>>> New Wait Time: 3.37604
+
+
+1205 sprog failed.
+>> Chance: 0.214126
+>> Roll: 0.966919
+>>>> New Wait Time: 3.58398
+
+
+1214 sprogged.
+>> Chance: 0.5
+>> Roll: 0.455048
+
+1311: Spawned with 10 starting energy.
+
+1122 sprogged.
+>> Chance: 0.418942
+>> Roll: 0.28476
+
+1312: Spawned with 8.68281 starting energy.
+1246 is attempting settling at: 9, 9
+Settling Succeeded at: 9, 9
+New entity: 1313
+
+1180 sprog failed.
+>> Chance: 0.250585
+>> Roll: 0.342407
+>>>> New Wait Time: 4.87268
+
+
+1060 sprog failed.
+>> Chance: 0.426679
+>> Roll: 0.53299
+>>>> New Wait Time: 3.95258
+
+1249 is attempting settling at: 18, 4
+Settling failed at: 18, 4
+1249 has a new Settling delay of 4.32825
+
+1076 sprogged.
+>> Chance: 0.234435
+>> Roll: 0.0662842
+
+1315: Spawned with 5.68457 starting energy.
+
+1086 sprog failed.
+>> Chance: 0.193889
+>> Roll: 0.580078
+>>>> New Wait Time: 3.09277
+
+1250 is attempting settling at: 22, 18
+Settling Succeeded at: 22, 18
+New entity: 1316
+
+1117 sprog failed.
+>> Chance: 0.35432
+>> Roll: 0.366119
+>>>> New Wait Time: 3.76343
+
+
+1081 sprogged.
+>> Chance: 0.196352
+>> Roll: 0.188202
+
+1318: Spawned with 5.06572 starting energy.
+
+1195 sprogged.
+>> Chance: 0.5
+>> Roll: 0.241669
+
+1319: Spawned with 10 starting energy.
+
+1103 sprog failed.
+>> Chance: 0.237159
+>> Roll: 0.417786
+>>>> New Wait Time: 3.24176
+
+1251 is attempting settling at: 23, 19
+Settling failed at: 23, 19
+1251 has a new Settling delay of 5.98978
+
+1288 sprog failed.
+>> Chance: 0.364213
+>> Roll: 0.752777
+>>>> New Wait Time: 4.17877
+
+
+1055 sprog failed.
+>> Chance: 0.228063
+>> Roll: 0.492096
+>>>> New Wait Time: 4.68872
+
+
+1054 sprog failed.
+>> Chance: 0.209742
+>> Roll: 0.465271
+>>>> New Wait Time: 4.05585
+
+
+1270 sprog failed.
+>> Chance: 0.232799
+>> Roll: 0.7099
+>>>> New Wait Time: 4.70752
+
+
+1294 sprog failed.
+>> Chance: 0.223102
+>> Roll: 0.912415
+>>>> New Wait Time: 3.73737
+
+1198 is attempting settling at: 11, 12
+Settling failed at: 11, 12
+1198 has a new Settling delay of 4.18542
+
+1154 sprog failed.
+>> Chance: 0.202205
+>> Roll: 0.811218
+>>>> New Wait Time: 4.5556
+
+
+1274 sprog failed.
+>> Chance: 0.201184
+>> Roll: 0.425476
+>>>> New Wait Time: 4.13239
+
+
+1256 sprog failed.
+>> Chance: 0.430368
+>> Roll: 0.803589
+>>>> New Wait Time: 3.53558
+
+
+1172 sprogged.
+>> Chance: 0.461928
+>> Roll: 0.433075
+
+1320: Spawned with 9.38133 starting energy.
+1252 is attempting settling at: 6, 20
+Settling failed at: 6, 20
+1252 has a new Settling delay of 4.80829
+1253 is attempting settling at: 25, 6
+Settling Succeeded at: 25, 6
+New entity: 1321
+
+1244 sprogged.
+>> Chance: 0.5
+>> Roll: 0.118805
+
+1323: Spawned with 10 starting energy.
+
+1147 sprog failed.
+>> Chance: 0.420368
+>> Roll: 0.723633
+>>>> New Wait Time: 3.39862
+
+
+1109 sprog failed.
+>> Chance: 0.377292
+>> Roll: 0.389038
+>>>> New Wait Time: 4.75836
+
+
+1202 sprogged.
+>> Chance: 0.5
+>> Roll: 0.00167847
+
+1324: Spawned with 10 starting energy.
+
+1211 sprogged.
+>> Chance: 0.5
+>> Roll: 0.437225
+
+1325: Spawned with 10 starting energy.
+
+1068 sprog failed.
+>> Chance: 0.20211
+>> Roll: 0.567535
+>>>> New Wait Time: 4.27435
+
+1213 is attempting settling at: 16, 24
+Settling failed at: 16, 24
+1213 has a new Settling delay of 2.51855
+1218 is attempting settling at: 19, 9
+Settling Succeeded at: 19, 9
+New entity: 1326
+
+1057 sprogged.
+>> Chance: 0.35026
+>> Roll: 0.111938
+
+1328: Spawned with 7.56673 starting energy.
+
+1166 sprog failed.
+>> Chance: 0.353287
+>> Roll: 0.584961
+>>>> New Wait Time: 3.91608
+
+
+1280 sprog failed.
+>> Chance: 0.326406
+>> Roll: 0.720184
+>>>> New Wait Time: 4.63177
+
+1216 is attempting settling at: 15, 22
+Settling Succeeded at: 15, 22
+New entity: 1329
+1229 is attempting settling at: 4, 14
+Settling Succeeded at: 4, 14
+New entity: 1331
+
+1115 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.839752
+>>>> New Wait Time: 3.57001
+
+
+1133 sprog failed.
+>> Chance: 0.217562
+>> Roll: 0.911926
+>>>> New Wait Time: 3.79858
+
+
+1059 sprogged.
+>> Chance: 0.360377
+>> Roll: 0.320618
+
+1333: Spawned with 7.73113 starting energy.
+1254 is attempting settling at: 14, 24
+Settling failed at: 14, 24
+1254 has a new Settling delay of 5.56314
+
+1074 sprog failed.
+>> Chance: 0.339869
+>> Roll: 0.434875
+>>>> New Wait Time: 3.99121
+
+
+1127 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0707703
+
+
+1267 sprog failed.
+>> Chance: 0.410433
+>> Roll: 0.916382
+>>>> New Wait Time: 4.5473
+
+1334: Spawned with 10 starting energy.
+
+1227 sprog failed.
+>> Chance: 0.19888
+>> Roll: 0.882874
+>>>> New Wait Time: 4.43726
+
+
+1301 sprog failed.
+>> Chance: 0.262655
+>> Roll: 0.691315
+>>>> New Wait Time: 4.56921
+
+
+1070 sprog failed.
+>> Chance: 0.446745
+>> Roll: 0.876831
+>>>> New Wait Time: 3.99805
+
+1255 is attempting settling at: 20, 8
+Settling failed at: 20, 8
+1255 has a new Settling delay of 4.78067
+1237 is attempting settling at: 15, 17
+Settling Succeeded at: 15, 17
+New entity: 1335
+1258 is attempting settling at: 0, 19
+Settling failed at: 0, 19
+1258 has a new Settling delay of 4.67706
+
+1175 sprog failed.
+>> Chance: 0.341135
+>> Roll: 0.684479
+>>>> New Wait Time: 4.84808
+
+
+1265 sprogged.
+>> Chance: 0.442483
+>> Roll: 0.295563
+
+1337: Spawned with 9.06535 starting energy.
+1236 is attempting settling at: 10, 29
+Settling Succeeded at: 10, 29
+New entity: 1338
+
+1138 sprogged.
+>> Chance: 0.207745
+>> Roll: 0.0715942
+
+1340: Spawned with 5.25085 starting energy.
+
+1233 sprog failed.
+>> Chance: 0.469104
+>> Roll: 0.621704
+>>>> New Wait Time: 4.31177
+
+
+1088 sprog failed.
+>> Chance: 0.373878
+>> Roll: 0.743805
+>>>> New Wait Time: 3.52588
+
+1221 is attempting settling at: 8, 13
+Settling failed at: 8, 13
+1221 has a new Settling delay of 2.56265
+
+1305 sprog failed.
+>> Chance: 0.239239
+>> Roll: 0.790894
+>>>> New Wait Time: 4.55499
+
+
+1111 sprogged.
+>> Chance: 0.32838
+>> Roll: 0.148804
+
+1341: Spawned with 7.21118 starting energy.
+1194 is attempting settling at: 18, 20
+Settling failed at: 18, 20
+1194 has a new Settling delay of 5.05609
+
+1086 sprog failed.
+>> Chance: 0.289521
+>> Roll: 0.413788
+>>>> New Wait Time: 4.72534
+
+
+1119 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.924164
+>>>> New Wait Time: 3.3244
+
+1188 is attempting settling at: 19, 7
+Settling failed at: 19, 7
+1188 has a new Settling delay of 3.14294
+1232 is attempting settling at: 28, 16
+Settling Succeeded at: 28, 16
+New entity: 1342
+
+1205 sprog failed.
+>> Chance: 0.325294
+>> Roll: 0.489349
+>>>> New Wait Time: 3.54254
+
+
+1190 sprogged.
+>> Chance: 0.5
+>> Roll: 0.371429
+
+
+1072 sprogged.
+>> Chance: 0.5
+>> Roll: 0.420074
+
+1344: Spawned with 10 starting energy.
+1345: Spawned with 10 starting energy.
+
+1113 sprog failed.
+>> Chance: 0.227158
+>> Roll: 0.746307
+>>>> New Wait Time: 3.57202
+
+
+1316 sprog failed.
+>> Chance: 0.34422
+>> Roll: 0.593201
+>>>> New Wait Time: 3.17499
+
+1217 is attempting settling at: 21, 26
+Settling Succeeded at: 21, 26
+New entity: 1346
+
+1103 sprog failed.
+>> Chance: 0.337151
+>> Roll: 0.464233
+>>>> New Wait Time: 3.84338
+
+
+1299 sprog failed.
+>> Chance: 0.442978
+>> Roll: 0.883606
+>>>> New Wait Time: 4.28394
+
+
+1263 sprog failed.
+>> Chance: 0.404854
+>> Roll: 0.574951
+>>>> New Wait Time: 4.07513
+
+1226 is attempting settling at: 27, 18
+Settling failed at: 27, 18
+1226 has a new Settling delay of 5.46732
+1269 is attempting settling at: 4, 18
+Settling Succeeded at: 4, 18
+New entity: 1348
+
+1207 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.820068
+>>>> New Wait Time: 3.6283
+
+
+1239 sprogged.
+>> Chance: 0.194768
+>> Roll: 0.0951233
+
+1350: Spawned with 5.03999 starting energy.
+
+1117 sprog failed.
+>> Chance: 0.470311
+>> Roll: 0.913879
+>>>> New Wait Time: 3.06836
+
+
+1060 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0456238
+
+1351: Spawned with 10 starting energy.
+1213 is attempting settling at: 9, 11
+Settling Succeeded at: 9, 11
+New entity: 1352
+
+1058 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.732697
+>>>> New Wait Time: 3.53766
+
+1272 is attempting settling at: 14, 6
+Settling failed at: 14, 6
+1272 has a new Settling delay of 5.17206
+1273 is attempting settling at: 15, 18
+Settling failed at: 15, 18
+1273 has a new Settling delay of 1.00153
+1249 is attempting settling at: 7, 26
+Settling failed at: 7, 26
+1249 has a new Settling delay of 3.20993
+
+1256 sprogged.
+>> Chance: 0.5
+>> Roll: 0.248199
+
+
+1294 sprog failed.
+>> Chance: 0.33836
+>> Roll: 0.567719
+>>>> New Wait Time: 4.10895
+
+1354: Spawned with 10 starting energy.
+1241 is attempting settling at: 23, 21
+Settling Succeeded at: 23, 21
+New entity: 1355
+
+1152 sprog failed.
+>> Chance: 0.206849
+>> Roll: 0.401978
+>>>> New Wait Time: 4.8501
+
+1276 is attempting settling at: 20, 4
+Settling Succeeded at: 20, 4
+New entity: 1357
+
+1054 sprogged.
+>> Chance: 0.334732
+>> Roll: 0.140961
+
+1359: Spawned with 7.3144 starting energy.
+
+1288 sprogged.
+>> Chance: 0.493109
+>> Roll: 0.0294189
+
+1360: Spawned with 9.88803 starting energy.
+
+1147 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.65863
+>>>> New Wait Time: 3.05811
+
+1277 is attempting settling at: 27, 16
+Settling failed at: 27, 16
+1277 has a new Settling delay of 4.19427
+
+1180 sprog failed.
+>> Chance: 0.40067
+>> Roll: 0.592529
+>>>> New Wait Time: 3.73846
+
+1198 is attempting settling at: 18, 18
+Settling failed at: 18, 18
+1198 has a new Settling delay of 3.00012
+
+1274 sprogged.
+>> Chance: 0.328752
+>> Roll: 0.135529
+
+1361: Spawned with 7.21723 starting energy.
+
+1160 sprog failed.
+>> Chance: 0.206046
+>> Roll: 0.767242
+>>>> New Wait Time: 3.44733
+
+1273 is attempting settling at: 15, 23
+Settling failed at: 15, 23
+1273 has a new Settling delay of 3.82867
+
+1162 sprog failed.
+>> Chance: 0.20002
+>> Roll: 0.257141
+>>>> New Wait Time: 4.66656
+
+1278 is attempting settling at: 7, 19
+Settling Succeeded at: 7, 19
+New entity: 1362
+1279 is attempting settling at: 2, 10
+Settling Succeeded at: 2, 10
+New entity: 1363
+
+1326 sprogged.
+>> Chance: 0.339743
+>> Roll: 0.218201
+
+1366: Spawned with 7.39583 starting energy.
+
+1055 sprogged.
+>> Chance: 0.373351
+>> Roll: 0.355865
+
+1367: Spawned with 7.94195 starting energy.
+
+1115 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.7435
+>>>> New Wait Time: 4.33734
+
+1282 is attempting settling at: 24, 27
+Settling failed at: 24, 27
+1282 has a new Settling delay of 3.06512
+
+1154 sprog failed.
+>> Chance: 0.342435
+>> Roll: 0.397766
+>>>> New Wait Time: 3.935
+
+
+1313 sprog failed.
+>> Chance: 0.228713
+>> Roll: 0.357544
+>>>> New Wait Time: 3.43835
+
+
+1270 sprog failed.
+>> Chance: 0.378136
+>> Roll: 0.487091
+>>>> New Wait Time: 4.5025
+
+1283 is attempting settling at: 28, 9
+Settling failed at: 28, 9
+1283 has a new Settling delay of 5.52347
+
+1166 sprog failed.
+>> Chance: 0.473829
+>> Roll: 0.646271
+>>>> New Wait Time: 3.03107
+
+1221 is attempting settling at: 13, 22
+Settling failed at: 13, 22
+1221 has a new Settling delay of 4.73795
+
+1321 sprogged.
+>> Chance: 0.304044
+>> Roll: 0.0796509
+
+1368: Spawned with 6.81571 starting energy.
+
+1247 sprog failed.
+>> Chance: 0.240157
+>> Roll: 0.847931
+>>>> New Wait Time: 3.70099
+
+
+1133 sprogged.
+>> Chance: 0.334988
+>> Roll: 0.182068
+
+1369: Spawned with 7.31855 starting energy.
+
+1068 sprogged.
+>> Chance: 0.334288
+>> Roll: 0.223816
+
+
+1338 sprog failed.
+>> Chance: 0.205967
+>> Roll: 0.83786
+>>>> New Wait Time: 3.45923
+
+1370: Spawned with 7.30717 starting energy.
+1252 is attempting settling at: 18, 5
+Settling Succeeded at: 18, 5
+New entity: 1371
+1284 is attempting settling at: 22, 18
+Settling failed at: 22, 18
+1284 has a new Settling delay of 2.83243
+
+1331 sprog failed.
+>> Chance: 0.364427
+>> Roll: 0.709686
+>>>> New Wait Time: 4.87952
+
+
+1084 sprog failed.
+>> Chance: 0.209934
+>> Roll: 0.795074
+>>>> New Wait Time: 3.61774
+
+
+1074 sprogged.
+>> Chance: 0.462845
+>> Roll: 0.382721
+
+1373: Spawned with 9.39623 starting energy.
+
+1109 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.503571
+>>>> New Wait Time: 4.10675
+
+1285 is attempting settling at: 20, 26
+Settling Succeeded at: 20, 26
+New entity: 1374
+1286 is attempting settling at: 25, 10
+Settling Succeeded at: 25, 10
+New entity: 1376
+
+1280 sprog failed.
+>> Chance: 0.469612
+>> Roll: 0.793945
+>>>> New Wait Time: 4.84277
+
+
+1070 sprogged.
+>> Chance: 0.5
+>> Roll: 0.106873
+
+1378: Spawned with 10 starting energy.
+
+1088 sprogged.
+>> Chance: 0.482431
+>> Roll: 0.329987
+
+1379: Spawned with 9.71451 starting energy.
+1251 is attempting settling at: 25, 6
+Settling failed at: 25, 6
+1251 has a new Settling delay of 1.90729
+
+1302 sprog failed.
+>> Chance: 0.236814
+>> Roll: 0.258423
+>>>> New Wait Time: 4.84406
+
+1188 is attempting settling at: 7, 27
+Settling failed at: 7, 27
+1188 has a new Settling delay of 1.47791
+1287 is attempting settling at: 7, 6
+Settling Succeeded at: 7, 6
+New entity: 1380
+
+1119 sprogged.
+>> Chance: 0.5
+>> Roll: 0.433441
+
+
+1227 sprog failed.
+>> Chance: 0.335686
+>> Roll: 0.595825
+>>>> New Wait Time: 4.02411
+
+
+1136 sprog failed.
+>> Chance: 0.237138
+>> Roll: 0.900513
+>>>> New Wait Time: 4.56427
+
+1382: Spawned with 10 starting energy.
+
+1131 sprog failed.
+>> Chance: 0.209726
+>> Roll: 0.383636
+>>>> New Wait Time: 4.32312
+
+
+1186 sprog failed.
+>> Chance: 0.206795
+>> Roll: 0.979584
+>>>> New Wait Time: 4.526
+
+
+1267 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.523193
+>>>> New Wait Time: 3.27966
+
+
+1316 sprog failed.
+>> Chance: 0.442494
+>> Roll: 0.690002
+>>>> New Wait Time: 3.85779
+
+
+1056 sprog failed.
+>> Chance: 0.240754
+>> Roll: 0.800323
+>>>> New Wait Time: 4.77203
+
+
+1301 sprog failed.
+>> Chance: 0.403452
+>> Roll: 0.984528
+>>>> New Wait Time: 4.96747
+
+
+1292 sprogged.
+>> Chance: 0.252276
+>> Roll: 0.0688171
+
+1383: Spawned with 5.97448 starting energy.
+
+1205 sprog failed.
+>> Chance: 0.434447
+>> Roll: 0.896332
+>>>> New Wait Time: 4.16132
+
+
+1117 sprogged.
+>> Chance: 0.5
+>> Roll: 0.375092
+
+
+1094 sprog failed.
+>> Chance: 0.246231
+>> Roll: 0.721436
+>>>> New Wait Time: 3.98999
+
+1384: Spawned with 10 starting energy.
+1255 is attempting settling at: 17, 12
+Settling failed at: 17, 12
+1255 has a new Settling delay of 2.26801
+1258 is attempting settling at: 11, 24
+Settling Succeeded at: 11, 24
+New entity: 1385
+1290 is attempting settling at: 16, 21
+Settling Succeeded at: 16, 21
+New entity: 1386
+
+1352 sprogged.
+>> Chance: 0.315849
+>> Roll: 0.106598
+
+1389: Spawned with 7.00754 starting energy.
+
+1113 sprogged.
+>> Chance: 0.337692
+>> Roll: 0.197113
+
+1390: Spawned with 7.36249 starting energy.
+
+1233 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.831787
+>>>> New Wait Time: 4.53583
+
+1291 is attempting settling at: 8, 8
+Settling failed at: 8, 8
+1291 has a new Settling delay of 5.26697
+
+1175 sprog failed.
+>> Chance: 0.490352
+>> Roll: 0.887329
+>>>> New Wait Time: 3.93463
+
+
+1219 sprogged.
+>> Chance: 0.197625
+>> Roll: 0.172302
+
+1391: Spawned with 5.08641 starting energy.
+
+1259 sprog failed.
+>> Chance: 0.195626
+>> Roll: 0.749969
+>>>> New Wait Time: 3.37292
+
+
+1223 sprogged.
+>> Chance: 0.236802
+>> Roll: 0.222717
+
+1392: Spawned with 5.72303 starting energy.
+
+1103 sprog failed.
+>> Chance: 0.4558
+>> Roll: 0.578888
+>>>> New Wait Time: 4.54517
+
+1296 is attempting settling at: 11, 11
+Settling failed at: 11, 11
+1296 has a new Settling delay of 5.89563
+
+1207 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.936493
+>>>> New Wait Time: 3.0993
+
+
+1342 sprog failed.
+>> Chance: 0.234678
+>> Roll: 0.461029
+>>>> New Wait Time: 3.43622
+
+1254 is attempting settling at: 14, 7
+Settling failed at: 14, 7
+1254 has a new Settling delay of 3.43652
+
+1058 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.577393
+>>>> New Wait Time: 4.11401
+
+
+1305 sprog failed.
+>> Chance: 0.379622
+>> Roll: 0.539795
+>>>> New Wait Time: 3.62451
+
+1249 is attempting settling at: 21, 18
+Settling failed at: 21, 18
+1249 has a new Settling delay of 3.9776
+
+1147 sprogged.
+>> Chance: 0.5
+>> Roll: 0.436615
+
+1393: Spawned with 10 starting energy.
+
+1263 sprogged.
+>> Chance: 0.5
+>> Roll: 0.154633
+
+1394: Spawned with 10 starting energy.
+
+1299 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.681122
+>>>> New Wait Time: 3.82275
+
+1198 is attempting settling at: 10, 18
+Settling Succeeded at: 10, 18
+New entity: 1395
+
+1086 sprog failed.
+>> Chance: 0.436496
+>> Roll: 0.509155
+>>>> New Wait Time: 3.94031
+
+1297 is attempting settling at: 17, 12
+Settling failed at: 17, 12
+1297 has a new Settling delay of 3.53998
+1188 is attempting settling at: 5, 10
+Settling Succeeded at: 5, 10
+New entity: 1397
+1194 is attempting settling at: 10, 13
+Settling Succeeded at: 10, 13
+New entity: 1399
+
+1199 sprog failed.
+>> Chance: 0.246034
+>> Roll: 0.335602
+>>>> New Wait Time: 3.54657
+
+
+1363 sprog failed.
+>> Chance: 0.287555
+>> Roll: 0.350891
+>>>> New Wait Time: 3.40302
+
+1282 is attempting settling at: 14, 26
+Settling Succeeded at: 14, 26
+New entity: 1401
+1251 is attempting settling at: 9, 10
+Settling Succeeded at: 9, 10
+New entity: 1403
+
+1242 sprog failed.
+>> Chance: 0.222319
+>> Roll: 0.299225
+>>>> New Wait Time: 4.18726
+
+
+1160 sprogged.
+>> Chance: 0.312571
+>> Roll: 0.291504
+
+1405: Spawned with 6.95427 starting energy.
+
+1166 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.865234
+>>>> New Wait Time: 3.89301
+
+
+1098 sprog failed.
+>> Chance: 0.206588
+>> Roll: 0.410522
+>>>> New Wait Time: 3.37488
+
+
+1294 sprog failed.
+>> Chance: 0.465385
+>> Roll: 0.781128
+>>>> New Wait Time: 3.45679
+
+1298 is attempting settling at: 14, 14
+Settling failed at: 14, 14
+1298 has a new Settling delay of 5.22668
+
+1180 sprogged.
+>> Chance: 0.5
+>> Roll: 0.492767
+
+
+1355 sprog failed.
+>> Chance: 0.311646
+>> Roll: 0.521057
+>>>> New Wait Time: 3.96191
+
+1406: Spawned with 10 starting energy.
+
+1348 sprog failed.
+>> Chance: 0.337108
+>> Roll: 0.947418
+>>>> New Wait Time: 4.86981
+
+1284 is attempting settling at: 4, 17
+Settling failed at: 4, 17
+1284 has a new Settling delay of 4.36716
+
+1346 sprog failed.
+>> Chance: 0.224852
+>> Roll: 0.774811
+>>>> New Wait Time: 4.23041
+
+
+1313 sprogged.
+>> Chance: 0.335547
+>> Roll: 0.0834045
+
+1407: Spawned with 7.32764 starting energy.
+1273 is attempting settling at: 28, 5
+Settling Succeeded at: 28, 5
+New entity: 1408
+
+1362 sprogged.
+>> Chance: 0.416088
+>> Roll: 0.179413
+
+1410: Spawned with 8.63643 starting energy.
+1277 is attempting settling at: 26, 8
+Settling failed at: 26, 8
+1277 has a new Settling delay of 4.31345
+
+1338 sprog failed.
+>> Chance: 0.312681
+>> Roll: 0.364136
+>>>> New Wait Time: 3.33545
+
+
+1335 sprogged.
+>> Chance: 0.199165
+>> Roll: 0.105865
+
+1411: Spawned with 5.11143 starting energy.
+1272 is attempting settling at: 18, 13
+Settling failed at: 18, 13
+1272 has a new Settling delay of 5.95285
+1226 is attempting settling at: 23, 26
+Settling failed at: 23, 26
+1226 has a new Settling delay of 4.09921
+
+1154 sprog failed.
+>> Chance: 0.46417
+>> Roll: 0.603577
+>>>> New Wait Time: 4.62445
+
+
+1247 sprogged.
+>> Chance: 0.354727
+>> Roll: 0.180695
+
+1412: Spawned with 7.63932 starting energy.
+1255 is attempting settling at: 6, 19
+Settling Succeeded at: 6, 19
+New entity: 1413
+
+1152 sprog failed.
+>> Chance: 0.357228
+>> Roll: 0.812347
+>>>> New Wait Time: 3.43616
+
+1307 is attempting settling at: 19, 12
+Settling failed at: 19, 12
+1307 has a new Settling delay of 5.37881
+
+1115 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.759277
+>>>> New Wait Time: 4.18091
+
+
+1084 sprog failed.
+>> Chance: 0.321408
+>> Roll: 0.723083
+>>>> New Wait Time: 3.6972
+
+
+1329 sprogged.
+>> Chance: 0.219424
+>> Roll: 0.19635
+
+1415: Spawned with 5.44064 starting energy.
+
+1380 sprog failed.
+>> Chance: 0.411757
+>> Roll: 0.415314
+>>>> New Wait Time: 4.44897
+
+1308 is attempting settling at: 15, 11
+Settling failed at: 15, 11
+1308 has a new Settling delay of 5.88617
+1309 is attempting settling at: 22, 18
+Settling failed at: 22, 18
+1309 has a new Settling delay of 2.55075
+
+1192 sprog failed.
+>> Chance: 0.193752
+>> Roll: 0.964294
+>>>> New Wait Time: 3.72198
+
+1310 is attempting settling at: 13, 18
+Settling failed at: 13, 18
+1310 has a new Settling delay of 1.12939
+
+1162 sprog failed.
+>> Chance: 0.34391
+>> Roll: 0.441986
+>>>> New Wait Time: 3.51392
+
+1311 is attempting settling at: 9, 12
+Settling Succeeded at: 9, 12
+New entity: 1416
+
+1374 sprogged.
+>> Chance: 0.433328
+>> Roll: 0.0446167
+
+1418: Spawned with 8.91658 starting energy.
+1312 is attempting settling at: 14, 14
+Settling failed at: 14, 14
+1312 has a new Settling delay of 1.99045
+
+1270 sprogged.
+>> Chance: 0.5
+>> Roll: 0.287994
+
+
+1357 sprog failed.
+>> Chance: 0.22985
+>> Roll: 0.614532
+>>>> New Wait Time: 3.28864
+
+1419: Spawned with 10 starting energy.
+
+1267 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.696106
+>>>> New Wait Time: 3.0564
+
+1315 is attempting settling at: 2, 21
+Settling failed at: 2, 21
+1315 has a new Settling delay of 5.75449
+
+1109 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.717438
+>>>> New Wait Time: 4.67346
+
+
+1230 sprogged.
+>> Chance: 0.207538
+>> Roll: 0.0758362
+
+1420: Spawned with 5.24749 starting energy.
+1221 is attempting settling at: 26, 6
+Settling Succeeded at: 26, 6
+New entity: 1421
+1318 is attempting settling at: 28, 7
+Settling failed at: 28, 7
+1318 has a new Settling delay of 1.64514
+1319 is attempting settling at: 19, 7
+Settling failed at: 19, 7
+1319 has a new Settling delay of 4.28979
+
+1209 sprog failed.
+>> Chance: 0.246501
+>> Roll: 0.521637
+>>>> New Wait Time: 3.0213
+
+
+1376 sprogged.
+>> Chance: 0.446211
+>> Roll: 0.00817871
+
+1423: Spawned with 9.12594 starting energy.
+
+1076 sprog failed.
+>> Chance: 0.203637
+>> Roll: 0.364777
+>>>> New Wait Time: 3.61932
+
+
+1207 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0527649
+
+
+1316 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.568756
+>>>> New Wait Time: 3.76483
+
+1424: Spawned with 10 starting energy.
+
+1227 sprog failed.
+>> Chance: 0.46066
+>> Roll: 0.649261
+>>>> New Wait Time: 4.51233
+
+
+1195 sprog failed.
+>> Chance: 0.203372
+>> Roll: 0.34671
+>>>> New Wait Time: 3.46301
+
+
+1259 sprog failed.
+>> Chance: 0.299578
+>> Roll: 0.990051
+>>>> New Wait Time: 3.68103
+
+
+1261 sprog failed.
+>> Chance: 0.225835
+>> Roll: 0.936829
+>>>> New Wait Time: 3.06116
+
+
+1331 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.800385
+>>>> New Wait Time: 4.99933
+
+
+1222 sprog failed.
+>> Chance: 0.234498
+>> Roll: 0.434967
+>>>> New Wait Time: 4.56622
+
+
+1385 sprogged.
+>> Chance: 0.350111
+>> Roll: 0.0162354
+
+1425: Spawned with 7.5643 starting energy.
+1310 is attempting settling at: 14, 16
+Settling Succeeded at: 14, 16
+New entity: 1426
+1320 is attempting settling at: 16, 12
+Settling failed at: 16, 12
+1320 has a new Settling delay of 2.23108
+
+1342 sprog failed.
+>> Chance: 0.340528
+>> Roll: 0.698059
+>>>> New Wait Time: 4.59454
+
+
+1122 sprogged.
+>> Chance: 0.224696
+>> Roll: 0.128906
+
+1428: Spawned with 5.5263 starting energy.
+1254 is attempting settling at: 8, 10
+Settling failed at: 8, 10
+1254 has a new Settling delay of 4.63922
+1283 is attempting settling at: 18, 24
+Settling Succeeded at: 18, 24
+New entity: 1429
+
+1131 sprog failed.
+>> Chance: 0.344389
+>> Roll: 0.908417
+>>>> New Wait Time: 4.87158
+
+
+1094 sprogged.
+>> Chance: 0.369842
+>> Roll: 0.162048
+
+1431: Spawned with 7.88493 starting energy.
+
+1280 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.879913
+>>>> New Wait Time: 3.4751
+
+
+1081 sprog failed.
+>> Chance: 0.217696
+>> Roll: 0.53418
+>>>> New Wait Time: 3.64044
+
+
+1175 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.892548
+>>>> New Wait Time: 4.87714
+
+
+1205 sprogged.
+>> Chance: 0.5
+>> Roll: 0.228027
+
+
+1136 sprog failed.
+>> Chance: 0.378238
+>> Roll: 0.807068
+>>>> New Wait Time: 3.07532
+
+1432: Spawned with 10 starting energy.
+
+1305 sprogged.
+>> Chance: 0.492493
+>> Roll: 0.28894
+
+
+1186 sprog failed.
+>> Chance: 0.347373
+>> Roll: 0.56012
+>>>> New Wait Time: 3.15625
+
+1433: Spawned with 9.87802 starting energy.
+1323 is attempting settling at: 8, 23
+Settling Succeeded at: 8, 23
+New entity: 1434
+1324 is attempting settling at: 16, 17
+Settling failed at: 16, 17
+1324 has a new Settling delay of 4.35251
+
+1244 sprog failed.
+>> Chance: 0.194623
+>> Roll: 0.239716
+>>>> New Wait Time: 4.83002
+
+1325 is attempting settling at: 7, 14
+Settling failed at: 7, 14
+1325 has a new Settling delay of 5.54788
+
+1302 sprogged.
+>> Chance: 0.386753
+>> Roll: 0.290009
+
+1436: Spawned with 8.15974 starting energy.
+1328 is attempting settling at: 8, 4
+Settling failed at: 8, 4
+1328 has a new Settling delay of 1.46112
+
+1056 sprog failed.
+>> Chance: 0.38776
+>> Roll: 0.601257
+>>>> New Wait Time: 4.64642
+
+1297 is attempting settling at: 15, 23
+Settling failed at: 15, 23
+1297 has a new Settling delay of 2.9165
+1249 is attempting settling at: 25, 27
+Settling failed at: 25, 27
+1249 has a new Settling delay of 4.07037
+
+1058 sprogged.
+>> Chance: 0.5
+>> Roll: 0.110229
+
+
+1233 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.989227
+>>>> New Wait Time: 4.87146
+
+1437: Spawned with 10 starting energy.
+
+1299 sprogged.
+>> Chance: 0.5
+>> Roll: 0.348358
+
+
+1301 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0288696
+
+
+1363 sprog failed.
+>> Chance: 0.393404
+>> Roll: 0.455505
+>>>> New Wait Time: 4.02924
+
+
+1386 sprog failed.
+>> Chance: 0.460938
+>> Roll: 0.589233
+>>>> New Wait Time: 3.60498
+
+1438: Spawned with 10 starting energy.
+1439: Spawned with 10 starting energy.
+
+1214 sprogged.
+>> Chance: 0.251882
+>> Roll: 0.0945435
+
+1440: Spawned with 5.96809 starting energy.
+
+1199 sprog failed.
+>> Chance: 0.35584
+>> Roll: 0.965698
+>>>> New Wait Time: 4.81445
+
+
+1098 sprog failed.
+>> Chance: 0.310747
+>> Roll: 0.363007
+>>>> New Wait Time: 3.92535
+
+1312 is attempting settling at: 27, 6
+Settling failed at: 27, 6
+1312 has a new Settling delay of 3.42294
+
+1408 sprogged.
+>> Chance: 0.289935
+>> Roll: 0.226227
+
+1441: Spawned with 6.58644 starting energy.
+1318 is attempting settling at: 13, 10
+Settling failed at: 13, 10
+1318 has a new Settling delay of 4.64105
+1333 is attempting settling at: 21, 17
+Settling failed at: 21, 17
+1333 has a new Settling delay of 5.28055
+
+1103 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.638977
+>>>> New Wait Time: 3.56458
+
+
+1086 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.855591
+>>>> New Wait Time: 3.44989
+
+
+1172 sprog failed.
+>> Chance: 0.224471
+>> Roll: 0.551636
+>>>> New Wait Time: 4.31866
+
+
+1395 sprog failed.
+>> Chance: 0.260599
+>> Roll: 0.396729
+>>>> New Wait Time: 4.0639
+
+
+1202 sprog failed.
+>> Chance: 0.213245
+>> Roll: 0.99765
+>>>> New Wait Time: 4.49188
+
+
+1211 sprog failed.
+>> Chance: 0.209862
+>> Roll: 0.286987
+>>>> New Wait Time: 3.27887
+
+
+1403 sprogged.
+>> Chance: 0.328497
+>> Roll: 0.154938
+
+1442: Spawned with 7.21307 starting energy.
+
+1294 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.561584
+>>>> New Wait Time: 3.72052
+
+1334 is attempting settling at: 15, 24
+Settling Succeeded at: 15, 24
+New entity: 1443
+1309 is attempting settling at: 26, 18
+Settling failed at: 26, 18
+1309 has a new Settling delay of 5.54971
+
+1166 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.67804
+>>>> New Wait Time: 3.43152
+
+1291 is attempting settling at: 17, 3
+Settling Succeeded at: 17, 3
+New entity: 1445
+1337 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1337 has a new Settling delay of 1.73334
+
+1338 sprog failed.
+>> Chance: 0.416185
+>> Roll: 0.591492
+>>>> New Wait Time: 3.19379
+
+
+1355 sprog failed.
+>> Chance: 0.43427
+>> Roll: 0.625793
+>>>> New Wait Time: 4.16205
+
+
+1242 sprog failed.
+>> Chance: 0.351868
+>> Roll: 0.95871
+>>>> New Wait Time: 3.80237
+
+1340 is attempting settling at: 10, 25
+Settling failed at: 10, 25
+1340 has a new Settling delay of 3.93365
+
+1152 sprogged.
+>> Chance: 0.463012
+>> Roll: 0.304932
+
+1447: Spawned with 9.39894 starting energy.
+1328 is attempting settling at: 22, 24
+Settling Succeeded at: 22, 24
+New entity: 1448
+
+1399 sprogged.
+>> Chance: 0.283852
+>> Roll: 0.105133
+
+
+1416 sprog failed.
+>> Chance: 0.411504
+>> Roll: 0.973633
+>>>> New Wait Time: 3.08716
+
+1450: Spawned with 6.4876 starting energy.
+
+1346 sprog failed.
+>> Chance: 0.35542
+>> Roll: 0.925018
+>>>> New Wait Time: 4.90741
+
+
+1265 sprog failed.
+>> Chance: 0.209555
+>> Roll: 0.687134
+>>>> New Wait Time: 4.77844
+
+
+1267 sprogged.
+>> Chance: 0.5
+>> Roll: 0.21225
+
+
+1397 sprogged.
+>> Chance: 0.277952
+>> Roll: 0.0299683
+
+
+1059 sprog failed.
+>> Chance: 0.227431
+>> Roll: 0.837433
+>>>> New Wait Time: 3.44507
+
+
+1127 sprog failed.
+>> Chance: 0.221511
+>> Roll: 0.376709
+>>>> New Wait Time: 3.57983
+
+1451: Spawned with 10 starting energy.
+1452: Spawned with 6.39171 starting energy.
+1284 is attempting settling at: 27, 16
+Settling failed at: 27, 16
+1284 has a new Settling delay of 1.31891
+1341 is attempting settling at: 12, 10
+Settling Succeeded at: 12, 10
+New entity: 1453
+1320 is attempting settling at: 2, 23
+Settling Succeeded at: 2, 23
+New entity: 1455
+
+1357 sprogged.
+>> Chance: 0.331108
+>> Roll: 0.194641
+
+1457: Spawned with 7.25551 starting energy.
+
+1162 sprog failed.
+>> Chance: 0.452421
+>> Roll: 0.629639
+>>>> New Wait Time: 4.77502
+
+
+1401 sprogged.
+>> Chance: 0.41537
+>> Roll: 0.0240479
+
+
+1057 sprog failed.
+>> Chance: 0.248112
+>> Roll: 0.61969
+>>>> New Wait Time: 3.21924
+
+1458: Spawned with 8.62476 starting energy.
+1226 is attempting settling at: 20, 15
+Settling failed at: 20, 15
+1226 has a new Settling delay of 4.44604
+1296 is attempting settling at: 5, 24
+Settling Succeeded at: 5, 24
+New entity: 1459
+
+1084 sprogged.
+>> Chance: 0.437344
+>> Roll: 0.325775
+
+
+1209 sprog failed.
+>> Chance: 0.340159
+>> Roll: 0.669586
+>>>> New Wait Time: 4.45502
+
+1461: Spawned with 8.98184 starting energy.
+1277 is attempting settling at: 4, 9
+Settling failed at: 4, 9
+1277 has a new Settling delay of 3.83157
+1344 is attempting settling at: 16, 12
+Settling failed at: 16, 12
+1344 has a new Settling delay of 4.8942
+1345 is attempting settling at: 9, 12
+Settling failed at: 9, 12
+1345 has a new Settling delay of 5.26987
+
+1192 sprog failed.
+>> Chance: 0.309593
+>> Roll: 0.436676
+>>>> New Wait Time: 3.96521
+
+
+1348 sprog failed.
+>> Chance: 0.486986
+>> Roll: 0.608917
+>>>> New Wait Time: 3.96735
+
+
+1072 sprog failed.
+>> Chance: 0.195303
+>> Roll: 0.824554
+>>>> New Wait Time: 3.84045
+
+
+1138 sprog failed.
+>> Chance: 0.218731
+>> Roll: 0.906586
+>>>> New Wait Time: 4.5119
+
+
+1190 sprog failed.
+>> Chance: 0.199557
+>> Roll: 0.286469
+>>>> New Wait Time: 3.01312
+
+
+1371 sprog failed.
+>> Chance: 0.241014
+>> Roll: 0.575012
+>>>> New Wait Time: 3.63647
+
+
+1115 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0170898
+
+1462: Spawned with 10 starting energy.
+1298 is attempting settling at: 22, 7
+Settling Succeeded at: 22, 7
+New entity: 1463
+1350 is attempting settling at: 28, 11
+Settling failed at: 28, 11
+1350 has a new Settling delay of 2.28601
+
+1261 sprogged.
+>> Chance: 0.321651
+>> Roll: 0.0106201
+
+1465: Spawned with 7.10183 starting energy.
+1351 is attempting settling at: 20, 13
+Settling failed at: 20, 13
+1351 has a new Settling delay of 1.69473
+
+1154 sprogged.
+>> Chance: 0.5
+>> Roll: 0.286743
+
+
+1111 sprog failed.
+>> Chance: 0.217325
+>> Roll: 0.829529
+>>>> New Wait Time: 3.68005
+
+1466: Spawned with 10 starting energy.
+
+1076 sprog failed.
+>> Chance: 0.31545
+>> Roll: 0.986969
+>>>> New Wait Time: 4.16754
+
+
+1195 sprog failed.
+>> Chance: 0.31005
+>> Roll: 0.633728
+>>>> New Wait Time: 3.19092
+
+
+1380 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0589905
+
+1467: Spawned with 10 starting energy.
+1337 is attempting settling at: 14, 26
+Settling failed at: 14, 26
+1337 has a new Settling delay of 2.79367
+
+1136 sprogged.
+>> Chance: 0.473872
+>> Roll: 0.241455
+
+1468: Spawned with 9.57542 starting energy.
+
+1316 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.852081
+>>>> New Wait Time: 4.14575
+
+
+1259 sprog failed.
+>> Chance: 0.412939
+>> Roll: 0.83136
+>>>> New Wait Time: 3.68713
+
+1354 is attempting settling at: 21, 17
+Settling failed at: 21, 17
+1354 has a new Settling delay of 1.04379
+
+1186 sprog failed.
+>> Chance: 0.445997
+>> Roll: 0.726898
+>>>> New Wait Time: 4.32233
+
+1284 is attempting settling at: 23, 8
+Settling Succeeded at: 23, 8
+New entity: 1469
+1297 is attempting settling at: 19, 10
+Settling failed at: 19, 10
+1297 has a new Settling delay of 2.07285
+1319 is attempting settling at: 28, 13
+Settling Succeeded at: 28, 13
+New entity: 1471
+1359 is attempting settling at: 7, 25
+Settling failed at: 7, 25
+1359 has a new Settling delay of 1.74036
+
+1280 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.995422
+>>>> New Wait Time: 3.60919
+
+1360 is attempting settling at: 11, 11
+Settling failed at: 11, 11
+1360 has a new Settling delay of 3.36206
+
+1060 sprog failed.
+>> Chance: 0.215692
+>> Roll: 0.575195
+>>>> New Wait Time: 4.51001
+
+
+1081 sprog failed.
+>> Chance: 0.331282
+>> Roll: 0.409302
+>>>> New Wait Time: 4.76733
+
+1307 is attempting settling at: 21, 14
+Settling Succeeded at: 21, 14
+New entity: 1473
+
+1109 sprogged.
+>> Chance: 0.5
+>> Roll: 0.167664
+
+1475: Spawned with 10 starting energy.
+1361 is attempting settling at: 24, 5
+Settling failed at: 24, 5
+1361 has a new Settling delay of 3.59506
+1366 is attempting settling at: 8, 13
+Settling failed at: 8, 13
+1366 has a new Settling delay of 5.2276
+
+1227 sprogged.
+>> Chance: 0.5
+>> Roll: 0.259033
+
+1476: Spawned with 10 starting energy.
+1272 is attempting settling at: 18, 14
+Settling failed at: 18, 14
+1272 has a new Settling delay of 2.08917
+1367 is attempting settling at: 11, 6
+Settling failed at: 11, 6
+1367 has a new Settling delay of 5.19693
+
+1211 sprog failed.
+>> Chance: 0.311238
+>> Roll: 0.320984
+>>>> New Wait Time: 4.70099
+
+1312 is attempting settling at: 15, 20
+Settling Succeeded at: 15, 20
+New entity: 1477
+
+1222 sprogged.
+>> Chance: 0.375212
+>> Roll: 0.290131
+
+
+1386 sprogged.
+>> Chance: 0.5
+>> Roll: 0.039978
+
+1479: Spawned with 7.97219 starting energy.
+1480: Spawned with 10 starting energy.
+1354 is attempting settling at: 14, 20
+Settling failed at: 14, 20
+1354 has a new Settling delay of 5.12003
+
+1086 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.96701
+>>>> New Wait Time: 3.948
+
+
+1054 sprog failed.
+>> Chance: 0.220276
+>> Roll: 0.550323
+>>>> New Wait Time: 3.87854
+
+1368 is attempting settling at: 17, 16
+Settling failed at: 17, 16
+1368 has a new Settling delay of 5.76395
+
+1103 sprogged.
+>> Chance: 0.5
+>> Roll: 0.24826
+
+
+1342 sprogged.
+>> Chance: 0.483743
+>> Roll: 0.101685
+
+1481: Spawned with 10 starting energy.
+1482: Spawned with 9.73582 starting energy.
+1254 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1254 has a new Settling delay of 3.4852
+1308 is attempting settling at: 21, 16
+Settling failed at: 21, 16
+1308 has a new Settling delay of 3.50076
+1324 is attempting settling at: 27, 7
+Settling Succeeded at: 27, 7
+New entity: 1483
+1351 is attempting settling at: 29, 26
+Settling Succeeded at: 29, 26
+New entity: 1484
+
+1429 sprog failed.
+>> Chance: 0.337005
+>> Roll: 0.701141
+>>>> New Wait Time: 4.30945
+
+1369 is attempting settling at: 9, 23
+Settling Succeeded at: 9, 23
+New entity: 1487
+
+1239 sprog failed.
+>> Chance: 0.249629
+>> Roll: 0.856873
+>>>> New Wait Time: 3.22162
+
+1370 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1370 has a new Settling delay of 5.29413
+
+1294 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.942413
+>>>> New Wait Time: 4.27576
+
+
+1338 sprogged.
+>> Chance: 0.5
+>> Roll: 0.425262
+
+
+1098 sprog failed.
+>> Chance: 0.431565
+>> Roll: 0.804443
+>>>> New Wait Time: 4.70892
+
+
+1363 sprogged.
+>> Chance: 0.5
+>> Roll: 0.407043
+
+
+1434 sprogged.
+>> Chance: 0.456611
+>> Roll: 0.345917
+
+
+1256 sprogged.
+>> Chance: 0.235314
+>> Roll: 0.125702
+
+
+1326 sprog failed.
+>> Chance: 0.212779
+>> Roll: 0.338409
+>>>> New Wait Time: 4.04028
+
+1489: Spawned with 5.69886 starting energy.
+1490: Spawned with 10 starting energy.
+1491: Spawned with 10 starting energy.
+1492: Spawned with 9.29493 starting energy.
+1315 is attempting settling at: 22, 24
+Settling failed at: 22, 24
+1315 has a new Settling delay of 3.34375
+
+1166 sprogged.
+>> Chance: 0.5
+>> Roll: 0.435364
+
+
+1331 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0779419
+
+
+1131 sprog failed.
+>> Chance: 0.494361
+>> Roll: 0.695801
+>>>> New Wait Time: 3.35547
+
+
+1426 sprogged.
+>> Chance: 0.455121
+>> Roll: 0.308838
+
+1493: Spawned with 10 starting energy.
+1494: Spawned with 10 starting energy.
+1495: Spawned with 9.27071 starting energy.
+
+1321 sprog failed.
+>> Chance: 0.205891
+>> Roll: 0.972687
+>>>> New Wait Time: 4.9137
+
+1373 is attempting settling at: 9, 26
+Settling Succeeded at: 9, 26
+New entity: 1496
+
+1413 sprogged.
+>> Chance: 0.253413
+>> Roll: 0.0162354
+
+
+1274 sprogged.
+>> Chance: 0.226429
+>> Roll: 0.214661
+
+1498: Spawned with 5.55448 starting energy.
+1499: Spawned with 5.99295 starting energy.
+
+1175 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0838318
+
+
+1395 sprog failed.
+>> Chance: 0.387515
+>> Roll: 0.710846
+>>>> New Wait Time: 4.23279
+
+
+1416 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.795288
+>>>> New Wait Time: 3.61218
+
+1500: Spawned with 10 starting energy.
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.547089
+>>>> New Wait Time: 4.33032
+
+
+1244 sprog failed.
+>> Chance: 0.343975
+>> Roll: 0.402313
+>>>> New Wait Time: 4.89532
+
+1350 is attempting settling at: 16, 21
+Settling failed at: 16, 21
+1350 has a new Settling delay of 4.29559
+1378 is attempting settling at: 29, 29
+Settling Succeeded at: 29, 29
+New entity: 1501
+
+1172 sprog failed.
+>> Chance: 0.357766
+>> Roll: 0.717163
+>>>> New Wait Time: 3.65411
+
+
+1288 sprog failed.
+>> Chance: 0.243165
+>> Roll: 0.251465
+>>>> New Wait Time: 3.68475
+
+
+1448 sprog failed.
+>> Chance: 0.252175
+>> Roll: 0.597748
+>>>> New Wait Time: 3.77106
+
+1359 is attempting settling at: 26, 30
+Settling failed at: 26, 30
+1359 has a new Settling delay of 3.91153
+
+1443 sprog failed.
+>> Chance: 0.446399
+>> Roll: 0.571899
+>>>> New Wait Time: 3.23193
+
+
+1445 sprogged.
+>> Chance: 0.277022
+>> Roll: 0.000274658
+
+1503: Spawned with 6.3766 starting energy.
+1379 is attempting settling at: 17, 2
+Settling Succeeded at: 17, 2
+New entity: 1504
+
+1242 sprogged.
+>> Chance: 0.469824
+>> Roll: 0.391724
+
+
+1133 sprog failed.
+>> Chance: 0.215376
+>> Roll: 0.480804
+>>>> New Wait Time: 4.85162
+
+1506: Spawned with 9.50963 starting energy.
+
+1202 sprog failed.
+>> Chance: 0.352763
+>> Roll: 0.428925
+>>>> New Wait Time: 4.88702
+
+
+1057 sprog failed.
+>> Chance: 0.347441
+>> Roll: 0.735107
+>>>> New Wait Time: 4.25452
+
+
+1059 sprog failed.
+>> Chance: 0.333744
+>> Roll: 0.831116
+>>>> New Wait Time: 3.07062
+
+1382 is attempting settling at: 15, 21
+Settling failed at: 15, 21
+1382 has a new Settling delay of 2.57349
+
+1233 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.85907
+>>>> New Wait Time: 3.39081
+
+
+1055 sprog failed.
+>> Chance: 0.234784
+>> Roll: 0.970795
+>>>> New Wait Time: 3.18341
+
+1297 is attempting settling at: 7, 24
+Settling Succeeded at: 7, 24
+New entity: 1507
+1318 is attempting settling at: 21, 8
+Settling failed at: 21, 8
+1318 has a new Settling delay of 1.57465
+
+1127 sprogged.
+>> Chance: 0.332768
+>> Roll: 0.212189
+
+1509: Spawned with 7.28248 starting energy.
+1340 is attempting settling at: 15, 7
+Settling failed at: 15, 7
+1340 has a new Settling delay of 5.97192
+
+1199 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.550079
+>>>> New Wait Time: 4.81622
+
+
+1190 sprog failed.
+>> Chance: 0.292684
+>> Roll: 0.426147
+>>>> New Wait Time: 4.18616
+
+
+1459 sprog failed.
+>> Chance: 0.333562
+>> Roll: 0.936462
+>>>> New Wait Time: 4.70361
+
+
+1355 sprogged.
+>> Chance: 0.5
+>> Roll: 0.290466
+
+
+1068 sprog failed.
+>> Chance: 0.224902
+>> Roll: 0.472565
+>>>> New Wait Time: 4.83209
+
+1510: Spawned with 10 starting energy.
+
+1453 sprog failed.
+>> Chance: 0.25925
+>> Roll: 0.982147
+>>>> New Wait Time: 4.96686
+
+
+1421 sprog failed.
+>> Chance: 0.207604
+>> Roll: 0.789154
+>>>> New Wait Time: 3.25293
+
+
+1119 sprog failed.
+>> Chance: 0.200705
+>> Roll: 0.801758
+>>>> New Wait Time: 3.72412
+
+1383 is attempting settling at: 15, 17
+Settling failed at: 15, 17
+1383 has a new Settling delay of 1.9668
+1325 is attempting settling at: 19, 6
+Settling Succeeded at: 19, 6
+New entity: 1511
+1337 is attempting settling at: 10, 6
+Settling failed at: 10, 6
+1337 has a new Settling delay of 3.547
+1384 is attempting settling at: 8, 10
+Settling failed at: 8, 10
+1384 has a new Settling delay of 4.39386
+1389 is attempting settling at: 11, 24
+Settling failed at: 11, 24
+1389 has a new Settling delay of 5.94522
+1390 is attempting settling at: 9, 26
+Settling failed at: 9, 26
+1390 has a new Settling delay of 2.4624
+1333 is attempting settling at: 15, 5
+Settling Succeeded at: 15, 5
+New entity: 1513
+1391 is attempting settling at: 10, 10
+Settling Succeeded at: 10, 10
+New entity: 1514
+1272 is attempting settling at: 7, 20
+Settling Succeeded at: 7, 20
+New entity: 1517
+
+1195 sprog failed.
+>> Chance: 0.408458
+>> Roll: 0.827118
+>>>> New Wait Time: 3.61041
+
+
+1074 sprogged.
+>> Chance: 0.232166
+>> Roll: 0.157043
+
+
+1113 sprog failed.
+>> Chance: 0.1988
+>> Roll: 0.31311
+>>>> New Wait Time: 4.00098
+
+1519: Spawned with 5.6477 starting energy.
+1392 is attempting settling at: 21, 19
+Settling failed at: 21, 19
+1392 has a new Settling delay of 1.71014
+
+1371 sprogged.
+>> Chance: 0.354266
+>> Roll: 0.133179
+
+
+1072 sprogged.
+>> Chance: 0.314089
+>> Roll: 0.0593262
+
+
+1070 sprog failed.
+>> Chance: 0.22812
+>> Roll: 0.927948
+>>>> New Wait Time: 3.49921
+
+
+1088 sprog failed.
+>> Chance: 0.222525
+>> Roll: 0.396057
+>>>> New Wait Time: 3.8808
+
+1520: Spawned with 6.97894 starting energy.
+1521: Spawned with 7.63181 starting energy.
+
+1192 sprogged.
+>> Chance: 0.433262
+>> Roll: 0.264496
+
+1522: Spawned with 8.91551 starting energy.
+
+1348 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0078125
+
+
+1219 sprog failed.
+>> Chance: 0.202519
+>> Roll: 0.778137
+>>>> New Wait Time: 3.95276
+
+1523: Spawned with 10 starting energy.
+
+1292 sprog failed.
+>> Chance: 0.215608
+>> Roll: 0.488983
+>>>> New Wait Time: 4.1214
+
+
+1352 sprogged.
+>> Chance: 0.21007
+>> Roll: 0.0733948
+
+1524: Spawned with 5.28864 starting energy.
+
+1111 sprogged.
+>> Chance: 0.332183
+>> Roll: 0.0119019
+
+
+1223 sprog failed.
+>> Chance: 0.202814
+>> Roll: 0.727264
+>>>> New Wait Time: 4.63116
+
+1525: Spawned with 7.27297 starting energy.
+1393 is attempting settling at: 19, 17
+Settling failed at: 19, 17
+1393 has a new Settling delay of 3.36694
+1226 is attempting settling at: 22, 14
+Settling failed at: 22, 14
+1226 has a new Settling delay of 4.1575
+
+1209 sprog failed.
+>> Chance: 0.477579
+>> Roll: 0.550995
+>>>> New Wait Time: 4.91736
+
+
+1265 sprog failed.
+>> Chance: 0.358042
+>> Roll: 0.963196
+>>>> New Wait Time: 3.73969
+
+1309 is attempting settling at: 14, 7
+Settling failed at: 14, 7
+1309 has a new Settling delay of 2.87485
+1394 is attempting settling at: 25, 15
+Settling Succeeded at: 25, 15
+New entity: 1526
+
+1346 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0931702
+
+
+1117 sprog failed.
+>> Chance: 0.220388
+>> Roll: 0.99823
+>>>> New Wait Time: 4.08313
+
+1528: Spawned with 10 starting energy.
+
+1463 sprogged.
+>> Chance: 0.380159
+>> Roll: 0.312439
+
+1529: Spawned with 8.05258 starting energy.
+1360 is attempting settling at: 21, 5
+Settling Succeeded at: 21, 5
+New entity: 1530
+
+1162 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0370483
+
+
+1259 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.608948
+>>>> New Wait Time: 3.19489
+
+
+1455 sprog failed.
+>> Chance: 0.401722
+>> Roll: 0.97995
+>>>> New Wait Time: 4.81433
+
+1532: Spawned with 10 starting energy.
+
+1138 sprog failed.
+>> Chance: 0.359173
+>> Roll: 0.853577
+>>>> New Wait Time: 3.12714
+
+1318 is attempting settling at: 20, 15
+Settling failed at: 20, 15
+1318 has a new Settling delay of 2.44455
+
+1280 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.788025
+>>>> New Wait Time: 4.34705
+
+
+1076 sprog failed.
+>> Chance: 0.444124
+>> Roll: 0.727844
+>>>> New Wait Time: 3.57465
+
+
+1473 sprog failed.
+>> Chance: 0.355
+>> Roll: 0.376556
+>>>> New Wait Time: 4.00153
+
+1344 is attempting settling at: 22, 16
+Settling failed at: 22, 16
+1344 has a new Settling delay of 2.27365
+1405 is attempting settling at: 4, 18
+Settling failed at: 4, 18
+1405 has a new Settling delay of 5.46304
+1361 is attempting settling at: 10, 11
+Settling failed at: 10, 11
+1361 has a new Settling delay of 1.52872
+
+1316 sprogged.
+>> Chance: 0.5
+>> Roll: 0.44104
+
+
+1160 sprog failed.
+>> Chance: 0.195372
+>> Roll: 0.425873
+>>>> New Wait Time: 3.40735
+
+1533: Spawned with 10 starting energy.
+1406 is attempting settling at: 3, 20
+Settling failed at: 3, 20
+1406 has a new Settling delay of 3.52151
+
+1469 sprog failed.
+>> Chance: 0.244139
+>> Roll: 0.684601
+>>>> New Wait Time: 3.69104
+
+1345 is attempting settling at: 18, 14
+Settling failed at: 18, 14
+1345 has a new Settling delay of 5.18396
+
+1186 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.861908
+>>>> New Wait Time: 4.72931
+
+1407 is attempting settling at: 15, 20
+Settling failed at: 15, 20
+1407 has a new Settling delay of 4.86581
+
+1477 sprog failed.
+>> Chance: 0.275868
+>> Roll: 0.806976
+>>>> New Wait Time: 3.4718
+
+1383 is attempting settling at: 8, 26
+Settling failed at: 8, 26
+1383 has a new Settling delay of 4.43048
+1410 is attempting settling at: 28, 14
+Settling failed at: 28, 14
+1410 has a new Settling delay of 1.2182
+
+1239 sprog failed.
+>> Chance: 0.349972
+>> Roll: 0.684631
+>>>> New Wait Time: 3.44275
+
+
+1147 sprogged.
+>> Chance: 0.231735
+>> Roll: 0.0703735
+
+1534: Spawned with 5.64069 starting energy.
+1392 is attempting settling at: 8, 28
+Settling failed at: 8, 28
+1392 has a new Settling delay of 2.00861
+1254 is attempting settling at: 12, 23
+Settling failed at: 12, 23
+1254 has a new Settling delay of 3.98874
+1308 is attempting settling at: 16, 12
+Settling failed at: 16, 12
+1308 has a new Settling delay of 4.53577
+1382 is attempting settling at: 9, 11
+Settling failed at: 9, 11
+1382 has a new Settling delay of 4.22815
+1411 is attempting settling at: 30, 10
+Settling Succeeded at: 30, 10
+New entity: 1535
+1315 is attempting settling at: 9, 22
+Settling Succeeded at: 9, 22
+New entity: 1537
+
+1131 sprogged.
+>> Chance: 0.5
+>> Roll: 0.101898
+
+
+1060 sprogged.
+>> Chance: 0.356589
+>> Roll: 0.021759
+
+1539: Spawned with 7.66957 starting energy.
+1540: Spawned with 10 starting energy.
+1412 is attempting settling at: 17, 16
+Settling failed at: 17, 16
+1412 has a new Settling delay of 4.98834
+
+1054 sprog failed.
+>> Chance: 0.341152
+>> Roll: 0.916718
+>>>> New Wait Time: 4.4115
+
+
+1180 sprogged.
+>> Chance: 0.216702
+>> Roll: 0.159363
+
+
+1484 sprogged.
+>> Chance: 0.412588
+>> Roll: 0.0585938
+
+1541: Spawned with 5.3964 starting energy.
+1542: Spawned with 8.57955 starting energy.
+
+1086 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.700256
+>>>> New Wait Time: 3.2074
+
+
+1471 sprog failed.
+>> Chance: 0.415021
+>> Roll: 0.648529
+>>>> New Wait Time: 4.51135
+
+
+1081 sprogged.
+>> Chance: 0.477995
+>> Roll: 0.440552
+
+
+1483 sprog failed.
+>> Chance: 0.384115
+>> Roll: 0.704346
+>>>> New Wait Time: 3.57239
+
+1543: Spawned with 9.64242 starting energy.
+1390 is attempting settling at: 17, 18
+Settling failed at: 17, 18
+1390 has a new Settling delay of 2.19827
+1415 is attempting settling at: 9, 11
+Settling failed at: 9, 11
+1415 has a new Settling delay of 2.59424
+
+1059 sprog failed.
+>> Chance: 0.429424
+>> Roll: 0.878387
+>>>> New Wait Time: 4.6275
+
+
+1443 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.649628
+>>>> New Wait Time: 3.52899
+
+
+1362 sprog failed.
+>> Chance: 0.215071
+>> Roll: 0.501587
+>>>> New Wait Time: 3.19275
+
+
+1416 sprogged.
+>> Chance: 0.5
+>> Roll: 0.118134
+
+
+1263 sprog failed.
+>> Chance: 0.251413
+>> Roll: 0.444794
+>>>> New Wait Time: 3.86829
+
+
+1487 sprog failed.
+>> Chance: 0.276812
+>> Roll: 0.692444
+>>>> New Wait Time: 3.67145
+
+1544: Spawned with 10 starting energy.
+
+1055 sprogged.
+>> Chance: 0.334057
+>> Roll: 0.292114
+
+1545: Spawned with 7.30343 starting energy.
+1418 is attempting settling at: 26, 20
+Settling failed at: 26, 20
+1418 has a new Settling delay of 4.5759
+1419 is attempting settling at: 6, 13
+Settling Succeeded at: 6, 13
+New entity: 1546
+
+1326 sprog failed.
+>> Chance: 0.339936
+>> Roll: 0.890106
+>>>> New Wait Time: 4.15692
+
+
+1247 sprogged.
+>> Chance: 0.211078
+>> Roll: 0.160614
+
+1548: Spawned with 5.30502 starting energy.
+1249: Died from energy loss.
+
+1233 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.596039
+>>>> New Wait Time: 4.29956
+
+
+1172 sprogged.
+>> Chance: 0.472196
+>> Roll: 0.168335
+
+
+1211 sprogged.
+>> Chance: 0.457588
+>> Roll: 0.147034
+
+
+1429 sprogged.
+>> Chance: 0.47114
+>> Roll: 0.386719
+
+
+1288 sprogged.
+>> Chance: 0.357595
+>> Roll: 0.303894
+
+
+1335 sprog failed.
+>> Chance: 0.217709
+>> Roll: 0.653076
+>>>> New Wait Time: 4.55096
+
+
+1504 sprog failed.
+>> Chance: 0.409295
+>> Roll: 0.981781
+>>>> New Wait Time: 4.784
+
+1549: Spawned with 9.54819 starting energy.
+1550: Spawned with 9.3108 starting energy.
+1551: Spawned with 7.68592 starting energy.
+1552: Spawned with 9.53102 starting energy.
+1361 is attempting settling at: 14, 28
+Settling failed at: 14, 28
+1361 has a new Settling delay of 5.673
+
+1294 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.81189
+>>>> New Wait Time: 3.22815
+
+
+1448 sprogged.
+>> Chance: 0.369681
+>> Roll: 0.18634
+
+
+1421 sprogged.
+>> Chance: 0.308364
+>> Roll: 0.120605
+
+
+1511 sprogged.
+>> Chance: 0.346214
+>> Roll: 0.102539
+
+1553: Spawned with 6.88592 starting energy.
+1554: Spawned with 7.88232 starting energy.
+1555: Spawned with 7.50098 starting energy.
+1410 is attempting settling at: 25, 21
+Settling Succeeded at: 25, 21
+New entity: 1556
+
+1496 sprogged.
+>> Chance: 0.409296
+>> Roll: 0.218536
+
+1558: Spawned with 8.52606 starting energy.
+1359 is attempting settling at: 22, 2
+Settling Succeeded at: 22, 2
+New entity: 1559
+1420 is attempting settling at: 18, 11
+Settling failed at: 18, 11
+1420 has a new Settling delay of 4.87207
+
+1374 sprogged.
+>> Chance: 0.20536
+>> Roll: 0.0928955
+
+1561: Spawned with 5.2121 starting energy.
+
+1395 sprogged.
+>> Chance: 0.5
+>> Roll: 0.164185
+
+1562: Spawned with 10 starting energy.
+1366 is attempting settling at: 15, 20
+Settling failed at: 15, 20
+1366 has a new Settling delay of 3.92587
+1367 is attempting settling at: 1, 30
+Settling failed at: 1, 30
+1367 has a new Settling delay of 2.6153
+1423 is attempting settling at: 23, 19
+Settling failed at: 23, 19
+1423 has a new Settling delay of 4.58414
+
+1376 sprog failed.
+>> Chance: 0.194856
+>> Roll: 0.325989
+>>>> New Wait Time: 4.57751
+
+1350 is attempting settling at: 25, 8
+Settling failed at: 25, 8
+1350 has a new Settling delay of 5.39178
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.679413
+>>>> New Wait Time: 3.59949
+
+
+1098 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0417786
+
+
+1313 sprog failed.
+>> Chance: 0.246221
+>> Roll: 0.486481
+>>>> New Wait Time: 3.3999
+
+1563: Spawned with 10 starting energy.
+1337 is attempting settling at: 21, 7
+Settling failed at: 21, 7
+1337 has a new Settling delay of 4.56995
+1354 is attempting settling at: 15, 20
+Settling failed at: 15, 20
+1354 has a new Settling delay of 4.79471
+1424 is attempting settling at: 11, 3
+Settling failed at: 11, 3
+1424 has a new Settling delay of 1.43945
+
+1119 sprogged.
+>> Chance: 0.317735
+>> Roll: 0.238556
+
+
+1230 sprog failed.
+>> Chance: 0.205231
+>> Roll: 0.287659
+>>>> New Wait Time: 3.79224
+
+1564: Spawned with 7.03819 starting energy.
+1344 is attempting settling at: 17, 7
+Settling Succeeded at: 17, 7
+New entity: 1565
+1309 is attempting settling at: 8, 16
+Settling Succeeded at: 8, 16
+New entity: 1567
+1425 is attempting settling at: 8, 20
+Settling failed at: 8, 20
+1425 has a new Settling delay of 4.11447
+
+1057 sprog failed.
+>> Chance: 0.480566
+>> Roll: 0.938568
+>>>> New Wait Time: 4.59296
+
+
+1195 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.777191
+>>>> New Wait Time: 3.1012
+
+
+1190 sprogged.
+>> Chance: 0.421888
+>> Roll: 0.0910645
+
+
+1321 sprogged.
+>> Chance: 0.35863
+>> Roll: 0.129364
+
+
+1070 sprog failed.
+>> Chance: 0.33592
+>> Roll: 0.810425
+>>>> New Wait Time: 3.10901
+
+1569: Spawned with 8.73069 starting energy.
+1570: Spawned with 7.70273 starting energy.
+1428 is attempting settling at: 18, 18
+Settling failed at: 18, 18
+1428 has a new Settling delay of 4.02094
+1370 is attempting settling at: 18, 18
+Settling failed at: 18, 18
+1370 has a new Settling delay of 1.44479
+1431 is attempting settling at: 13, 21
+Settling Succeeded at: 13, 21
+New entity: 1571
+
+1244 sprog failed.
+>> Chance: 0.496278
+>> Roll: 0.96817
+>>>> New Wait Time: 3.66718
+
+
+1501 sprog failed.
+>> Chance: 0.466931
+>> Roll: 0.806152
+>>>> New Wait Time: 4.79254
+
+
+1329 sprog failed.
+>> Chance: 0.23903
+>> Roll: 0.959473
+>>>> New Wait Time: 4.39697
+
+
+1270 sprog failed.
+>> Chance: 0.229283
+>> Roll: 0.40799
+>>>> New Wait Time: 4.72522
+
+1392 is attempting settling at: 17, 26
+Settling Succeeded at: 17, 26
+New entity: 1573
+1393 is attempting settling at: 24, 7
+Settling failed at: 24, 7
+1393 has a new Settling delay of 1.95673
+1432 is attempting settling at: 16, 15
+Settling failed at: 16, 15
+1432 has a new Settling delay of 4.34244
+1433 is attempting settling at: 4, 19
+Settling failed at: 4, 19
+1433 has a new Settling delay of 3.17499
+1368 is attempting settling at: 17, 12
+Settling failed at: 17, 12
+1368 has a new Settling delay of 4.70483
+
+1259 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.925415
+>>>> New Wait Time: 3.59546
+
+
+1138 sprog failed.
+>> Chance: 0.4566
+>> Roll: 0.466583
+>>>> New Wait Time: 3.14978
+
+
+1133 sprog failed.
+>> Chance: 0.365764
+>> Roll: 0.488892
+>>>> New Wait Time: 3.55896
+
+
+1088 sprogged.
+>> Chance: 0.342952
+>> Roll: 0.0615845
+
+
+1113 sprog failed.
+>> Chance: 0.323007
+>> Roll: 0.999329
+>>>> New Wait Time: 4.19409
+
+1575: Spawned with 7.44797 starting energy.
+1436 is attempting settling at: 15, 13
+Settling Succeeded at: 15, 13
+New entity: 1576
+
+1202 sprogged.
+>> Chance: 0.5
+>> Roll: 0.384277
+
+
+1459 sprog failed.
+>> Chance: 0.478471
+>> Roll: 0.819672
+>>>> New Wait Time: 4.51587
+
+1578: Spawned with 10 starting energy.
+1384 is attempting settling at: 18, 13
+Settling failed at: 18, 13
+1384 has a new Settling delay of 1.4068
+1277: Died from energy loss.
+
+1219 sprog failed.
+>> Chance: 0.325166
+>> Roll: 0.578461
+>>>> New Wait Time: 3.2486
+
+
+1385 sprog failed.
+>> Chance: 0.214442
+>> Roll: 0.865173
+>>>> New Wait Time: 4.07611
+
+
+1122 sprog failed.
+>> Chance: 0.210958
+>> Roll: 0.240631
+>>>> New Wait Time: 3.492
+
+
+1205 sprog failed.
+>> Chance: 0.203937
+>> Roll: 0.56012
+>>>> New Wait Time: 3.23792
+
+
+1199 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.812988
+>>>> New Wait Time: 3.25415
+
+
+1265 sprogged.
+>> Chance: 0.47526
+>> Roll: 0.335968
+
+
+1068 sprog failed.
+>> Chance: 0.374148
+>> Roll: 0.394012
+>>>> New Wait Time: 3.50214
+
+
+1513 sprog failed.
+>> Chance: 0.246991
+>> Roll: 0.829956
+>>>> New Wait Time: 3.82416
+
+
+1530 sprog failed.
+>> Chance: 0.379308
+>> Roll: 0.902191
+>>>> New Wait Time: 4.28766
+
+1579: Spawned with 9.59797 starting energy.
+1437 is attempting settling at: 6, 21
+Settling Succeeded at: 6, 21
+New entity: 1580
+1390 is attempting settling at: 8, 7
+Settling Succeeded at: 8, 7
+New entity: 1582
+1438 is attempting settling at: 19, 13
+Settling Succeeded at: 19, 13
+New entity: 1583
+1439 is attempting settling at: 11, 10
+Settling failed at: 11, 10
+1439 has a new Settling delay of 3.7919
+1440 is attempting settling at: 3, 15
+Settling Succeeded at: 3, 15
+New entity: 1584
+
+1453 sprogged.
+>> Chance: 0.412419
+>> Roll: 0.281219
+
+
+1292 sprog failed.
+>> Chance: 0.344752
+>> Roll: 0.532654
+>>>> New Wait Time: 3.50696
+
+1588: Spawned with 8.57682 starting energy.
+1441 is attempting settling at: 7, 19
+Settling failed at: 7, 19
+1441 has a new Settling delay of 5.03214
+
+1076 sprogged.
+>> Chance: 0.5
+>> Roll: 0.188721
+
+1589: Spawned with 10 starting energy.
+1226 is attempting settling at: 15, 19
+Settling Succeeded at: 15, 19
+New entity: 1590
+1442 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1442 has a new Settling delay of 2.59897
+
+1117 sprogged.
+>> Chance: 0.346116
+>> Roll: 0.194977
+
+
+1160 sprog failed.
+>> Chance: 0.302321
+>> Roll: 0.763428
+>>>> New Wait Time: 4.06049
+
+1592: Spawned with 7.49939 starting energy.
+1424 is attempting settling at: 27, 8
+Settling Succeeded at: 27, 8
+New entity: 1593
+
+1403 sprog failed.
+>> Chance: 0.196738
+>> Roll: 0.477142
+>>>> New Wait Time: 3.11212
+
+1406 is attempting settling at: 20, 12
+Settling Succeeded at: 20, 12
+New entity: 1595
+
+1207 sprog failed.
+>> Chance: 0.241601
+>> Roll: 0.419098
+>>>> New Wait Time: 4.52203
+
+1415 is attempting settling at: 10, 10
+Settling failed at: 10, 10
+1415 has a new Settling delay of 1.33539
+
+1302 sprogged.
+>> Chance: 0.218181
+>> Roll: 0.00128174
+
+1597: Spawned with 5.42044 starting energy.
+
+1223 sprogged.
+>> Chance: 0.345723
+>> Roll: 0.100952
+
+
+1473 sprogged.
+>> Chance: 0.480647
+>> Roll: 0.250977
+
+
+1477 sprog failed.
+>> Chance: 0.384021
+>> Roll: 0.990997
+>>>> New Wait Time: 3.75568
+
+
+1094 sprog failed.
+>> Chance: 0.232462
+>> Roll: 0.364929
+>>>> New Wait Time: 4.112
+
+1598: Spawned with 7.493 starting energy.
+1599: Spawned with 9.68552 starting energy.
+
+1239 sprogged.
+>> Chance: 0.456251
+>> Roll: 0.242188
+
+
+1469 sprog failed.
+>> Chance: 0.359496
+>> Roll: 0.644775
+>>>> New Wait Time: 4.08716
+
+1600: Spawned with 9.28907 starting energy.
+1370 is attempting settling at: 19, 8
+Settling Succeeded at: 19, 8
+New entity: 1601
+
+1280 sprogged.
+>> Chance: 0.5
+>> Roll: 0.377197
+
+1603: Spawned with 10 starting energy.
+1340 is attempting settling at: 19, 27
+Settling failed at: 19, 27
+1340 has a new Settling delay of 1.88516
+
+1086 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0544128
+
+
+1209 sprogged.
+>> Chance: 0.5
+>> Roll: 0.168274
+
+
+1526 sprogged.
+>> Chance: 0.467202
+>> Roll: 0.0354919
+
+1604: Spawned with 10 starting energy.
+1605: Spawned with 10 starting energy.
+1606: Spawned with 9.46702 starting energy.
+1447 is attempting settling at: 9, 10
+Settling failed at: 9, 10
+1447 has a new Settling delay of 4.24646
+
+1408 sprog failed.
+>> Chance: 0.221677
+>> Roll: 0.454468
+>>>> New Wait Time: 4.30072
+
+1384 is attempting settling at: 10, 22
+Settling failed at: 10, 22
+1384 has a new Settling delay of 2.76697
+1450 is attempting settling at: 24, 17
+Settling failed at: 24, 17
+1450 has a new Settling delay of 5.35989
+
+1455 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.674622
+>>>> New Wait Time: 4.16156
+
+
+1362 sprog failed.
+>> Chance: 0.315572
+>> Roll: 0.889862
+>>>> New Wait Time: 3.7901
+
+
+1058 sprog failed.
+>> Chance: 0.231288
+>> Roll: 0.536865
+>>>> New Wait Time: 4.5509
+
+1389 is attempting settling at: 22, 15
+Settling failed at: 22, 15
+1389 has a new Settling delay of 4.00735
+1451 is attempting settling at: 4, 8
+Settling failed at: 4, 8
+1451 has a new Settling delay of 2.6507
+1452 is attempting settling at: 21, 16
+Settling failed at: 21, 16
+1452 has a new Settling delay of 2.7543
+1367 is attempting settling at: 16, 23
+Settling failed at: 16, 23
+1367 has a new Settling delay of 2.62781
+1393 is attempting settling at: 26, 18
+Settling failed at: 26, 18
+1393 has a new Settling delay of 5.50974
+
+1443 sprogged.
+>> Chance: 0.5
+>> Roll: 0.316559
+
+
+1483 sprogged.
+>> Chance: 0.495385
+>> Roll: 0.0783386
+
+
+1305 sprog failed.
+>> Chance: 0.252169
+>> Roll: 0.527161
+>>>> New Wait Time: 4.78369
+
+
+1299 sprog failed.
+>> Chance: 0.236021
+>> Roll: 0.423706
+>>>> New Wait Time: 3.34528
+
+
+1214 sprog failed.
+>> Chance: 0.234318
+>> Roll: 0.725616
+>>>> New Wait Time: 4.3338
+
+1607: Spawned with 10 starting energy.
+1608: Spawned with 9.925 starting energy.
+1254 is attempting settling at: 22, 7
+Settling failed at: 22, 7
+1254 has a new Settling delay of 2.41907
+1457 is attempting settling at: 14, 16
+Settling failed at: 14, 16
+1457 has a new Settling delay of 4.69995
+
+1357 sprog failed.
+>> Chance: 0.19393
+>> Roll: 0.441925
+>>>> New Wait Time: 4.35791
+
+1383 is attempting settling at: 26, 4
+Settling Succeeded at: 26, 4
+New entity: 1609
+1458 is attempting settling at: 14, 22
+Settling failed at: 14, 22
+1458 has a new Settling delay of 1.05569
+1382 is attempting settling at: 27, 21
+Settling failed at: 27, 21
+1382 has a new Settling delay of 4.10989
+1461 is attempting settling at: 15, 19
+Settling failed at: 15, 19
+1461 has a new Settling delay of 5.51584
+
+1294 sprogged.
+>> Chance: 0.5
+>> Roll: 0.291687
+
+
+1487 sprogged.
+>> Chance: 0.390274
+>> Roll: 0.302094
+
+
+1514 sprog failed.
+>> Chance: 0.205184
+>> Roll: 0.218262
+>>>> New Wait Time: 3.60583
+
+1611: Spawned with 10 starting energy.
+1612: Spawned with 8.21696 starting energy.
+
+1186 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.819275
+>>>> New Wait Time: 4.95428
+
+
+1401 sprog failed.
+>> Chance: 0.200527
+>> Roll: 0.500397
+>>>> New Wait Time: 4.58606
+
+1415 is attempting settling at: 11, 18
+Settling Succeeded at: 11, 18
+New entity: 1613
+
+1263 sprogged.
+>> Chance: 0.371029
+>> Roll: 0.359039
+
+
+1301 sprog failed.
+>> Chance: 0.251078
+>> Roll: 0.459961
+>>>> New Wait Time: 4.63843
+
+1615: Spawned with 7.90422 starting energy.
+1308 is attempting settling at: 16, 24
+Settling failed at: 16, 24
+1308 has a new Settling delay of 1.86716
+1407 is attempting settling at: 14, 6
+Settling failed at: 14, 6
+1407 has a new Settling delay of 4.38516
+
+1546 sprogged.
+>> Chance: 0.436991
+>> Roll: 0.181091
+
+1616: Spawned with 8.9761 starting energy.
+1462 is attempting settling at: 21, 27
+Settling Succeeded at: 21, 27
+New entity: 1617
+
+1054 sprogged.
+>> Chance: 0.477989
+>> Roll: 0.401093
+
+
+1115 sprog failed.
+>> Chance: 0.19377
+>> Roll: 0.654907
+>>>> New Wait Time: 3.04492
+
+1619: Spawned with 9.64232 starting energy.
+1345 is attempting settling at: 8, 22
+Settling Succeeded at: 8, 22
+New entity: 1620
+1405 is attempting settling at: 26, 20
+Settling failed at: 26, 20
+1405 has a new Settling delay of 2.46591
+1465 is attempting settling at: 10, 23
+Settling failed at: 10, 23
+1465 has a new Settling delay of 1.37247
+
+1399 sprogged.
+>> Chance: 0.22274
+>> Roll: 0.0775757
+
+1622: Spawned with 5.49453 starting energy.
+1466 is attempting settling at: 9, 15
+Settling Succeeded at: 9, 15
+New entity: 1623
+
+1195 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0824585
+
+
+1070 sprogged.
+>> Chance: 0.431812
+>> Roll: 0.290344
+
+
+1471 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.890991
+>>>> New Wait Time: 4.42926
+
+
+1313 sprog failed.
+>> Chance: 0.353711
+>> Roll: 0.971771
+>>>> New Wait Time: 4.40228
+
+
+1152 sprog failed.
+>> Chance: 0.23073
+>> Roll: 0.455536
+>>>> New Wait Time: 4.06085
+
+
+1267 sprog failed.
+>> Chance: 0.222895
+>> Roll: 0.295044
+>>>> New Wait Time: 4.04626
+
+1625: Spawned with 8.89194 starting energy.
+1626: Spawned with 10 starting energy.
+
+1326 sprog failed.
+>> Chance: 0.469501
+>> Roll: 0.486084
+>>>> New Wait Time: 4.61047
+
+1467 is attempting settling at: 7, 8
+Settling Succeeded at: 7, 8
+New entity: 1627
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.826477
+>>>> New Wait Time: 3.64948
+
+
+1517 sprog failed.
+>> Chance: 0.226631
+>> Roll: 0.290314
+>>>> New Wait Time: 3.20728
+
+
+1556 sprog failed.
+>> Chance: 0.343468
+>> Roll: 0.759674
+>>>> New Wait Time: 3.65088
+
+
+1154 sprogged.
+>> Chance: 0.20056
+>> Roll: 0.0611267
+
+1629: Spawned with 5.13409 starting energy.
+1468 is attempting settling at: 23, 29
+Settling failed at: 23, 29
+1468 has a new Settling delay of 3.74963
+
+1233 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.619659
+>>>> New Wait Time: 3.24683
+
+
+1059 sprogged.
+>> Chance: 0.5
+>> Roll: 0.206848
+
+
+1084 sprog failed.
+>> Chance: 0.222058
+>> Roll: 0.375183
+>>>> New Wait Time: 4.01245
+
+1630: Spawned with 10 starting energy.
+1366 is attempting settling at: 26, 23
+Settling Succeeded at: 26, 23
+New entity: 1631
+1412 is attempting settling at: 14, 6
+Settling failed at: 14, 6
+1412 has a new Settling delay of 2.6304
+1433 is attempting settling at: 21, 21
+Settling Succeeded at: 21, 21
+New entity: 1632
+1458 is attempting settling at: 13, 19
+Settling failed at: 13, 19
+1458 has a new Settling delay of 3.48505
+1418 is attempting settling at: 0, 0
+Settling failed at: 0, 0
+1418 has a new Settling delay of 1.57175
+
+1138 sprogged.
+>> Chance: 0.5
+>> Roll: 0.121002
+
+
+1230 sprog failed.
+>> Chance: 0.324569
+>> Roll: 0.486481
+>>>> New Wait Time: 3.90833
+
+
+1136 sprog failed.
+>> Chance: 0.200338
+>> Roll: 0.309662
+>>>> New Wait Time: 3.23096
+
+1635: Spawned with 10 starting energy.
+1442 is attempting settling at: 18, 15
+Settling failed at: 18, 15
+1442 has a new Settling delay of 1.05219
+
+1335 sprogged.
+>> Chance: 0.359334
+>> Roll: 0.215057
+
+1636: Spawned with 7.71418 starting energy.
+
+1397 sprog failed.
+>> Chance: 0.243838
+>> Roll: 0.904388
+>>>> New Wait Time: 3.68927
+
+
+1244 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.790436
+>>>> New Wait Time: 3.83936
+
+
+1219 sprogged.
+>> Chance: 0.426297
+>> Roll: 0.281128
+
+
+1504 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.595276
+>>>> New Wait Time: 3.03894
+
+
+1205 sprog failed.
+>> Chance: 0.305068
+>> Roll: 0.96106
+>>>> New Wait Time: 3.10352
+
+1637: Spawned with 8.80233 starting energy.
+1475 is attempting settling at: 2, 3
+Settling failed at: 2, 3
+1475 has a new Settling delay of 3.13074
+
+1199 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.500824
+>>>> New Wait Time: 3.26794
+
+
+1133 sprogged.
+>> Chance: 0.475934
+>> Roll: 0.065033
+
+1638: Spawned with 9.60893 starting energy.
+1425 is attempting settling at: 13, 9
+Settling failed at: 13, 9
+1425 has a new Settling delay of 4.04306
+
+1259 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.755707
+>>>> New Wait Time: 3.17798
+
+
+1261 sprog failed.
+>> Chance: 0.226571
+>> Roll: 0.897369
+>>>> New Wait Time: 4.8327
+
+
+1380 sprog failed.
+>> Chance: 0.219285
+>> Roll: 0.421021
+>>>> New Wait Time: 3.0802
+
+1423 is attempting settling at: 22, 6
+Settling failed at: 22, 6
+1423 has a new Settling delay of 4.22403
+1428 is attempting settling at: 23, 13
+Settling failed at: 23, 13
+1428 has a new Settling delay of 3.06268
+
+1376 sprogged.
+>> Chance: 0.337634
+>> Roll: 0.017334
+
+
+1122 sprogged.
+>> Chance: 0.321009
+>> Roll: 0.304535
+
+1639: Spawned with 7.09139 starting energy.
+1640: Spawned with 7.36156 starting energy.
+1420 is attempting settling at: 19, 20
+Settling failed at: 19, 20
+1420 has a new Settling delay of 5.77158
+1476 is attempting settling at: 25, 4
+Settling failed at: 25, 4
+1476 has a new Settling delay of 3.57431
+
+1068 sprog failed.
+>> Chance: 0.484003
+>> Roll: 0.620483
+>>>> New Wait Time: 3.09369
+
+1337 is attempting settling at: 17, 24
+Settling Succeeded at: 17, 24
+New entity: 1641
+
+1403 sprogged.
+>> Chance: 0.294998
+>> Roll: 0.0185547
+
+
+1595 sprog failed.
+>> Chance: 0.370435
+>> Roll: 0.856506
+>>>> New Wait Time: 4.46082
+
+1643: Spawned with 6.66872 starting energy.
+1465 is attempting settling at: 4, 14
+Settling failed at: 4, 14
+1465 has a new Settling delay of 5.37119
+1479 is attempting settling at: 25, 15
+Settling failed at: 25, 15
+1479 has a new Settling delay of 3.97699
+1480 is attempting settling at: 21, 10
+Settling failed at: 21, 10
+1480 has a new Settling delay of 4.62534
+
+1292 sprogged.
+>> Chance: 0.455
+>> Roll: 0.092926
+
+
+1576 sprogged.
+>> Chance: 0.328221
+>> Roll: 0.310242
+
+1644: Spawned with 9.26875 starting energy.
+1645: Spawned with 7.20859 starting energy.
+1354 is attempting settling at: 15, 11
+Settling failed at: 15, 11
+1354 has a new Settling delay of 3.7301
+
+1057 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.628784
+>>>> New Wait Time: 4.7265
+
+
+1513 sprogged.
+>> Chance: 0.366077
+>> Roll: 0.310669
+
+
+1565 sprogged.
+>> Chance: 0.376425
+>> Roll: 0.218567
+
+
+1571 sprogged.
+>> Chance: 0.323164
+>> Roll: 0.136414
+
+
+1580 sprog failed.
+>> Chance: 0.435143
+>> Roll: 0.782196
+>>>> New Wait Time: 3.35126
+
+1646: Spawned with 7.82375 starting energy.
+1647: Spawned with 7.9919 starting energy.
+1648: Spawned with 7.12641 starting energy.
+1432 is attempting settling at: 15, 24
+Settling failed at: 15, 24
+1432 has a new Settling delay of 4.05252
+1481 is attempting settling at: 23, 19
+Settling failed at: 23, 19
+1481 has a new Settling delay of 1.48523
+1482 is attempting settling at: 20, 2
+Settling failed at: 20, 2
+1482 has a new Settling delay of 3.8392
+1318: Died from energy loss.
+
+1113 sprogged.
+>> Chance: 0.454401
+>> Roll: 0.0877686
+
+
+1329 sprog failed.
+>> Chance: 0.377351
+>> Roll: 0.900818
+>>>> New Wait Time: 3.09125
+
+
+1559 sprog failed.
+>> Chance: 0.246827
+>> Roll: 0.696594
+>>>> New Wait Time: 3.95087
+
+1649: Spawned with 9.25901 starting energy.
+1254 is attempting settling at: 19, 18
+Settling failed at: 19, 18
+1254 has a new Settling delay of 4.57788
+1308 is attempting settling at: 18, 12
+Settling Succeeded at: 18, 12
+New entity: 1650
+1439 is attempting settling at: 19, 11
+Settling failed at: 19, 11
+1439 has a new Settling delay of 2.37131
+1442 is attempting settling at: 19, 12
+Settling failed at: 19, 12
+1442 has a new Settling delay of 5.76013
+
+1385 sprog failed.
+>> Chance: 0.342759
+>> Roll: 0.641388
+>>>> New Wait Time: 4.35309
+
+1361 is attempting settling at: 22, 15
+Settling failed at: 22, 15
+1361 has a new Settling delay of 4.30872
+1367 is attempting settling at: 18, 20
+Settling failed at: 18, 20
+1367 has a new Settling delay of 5.72198
+1384 is attempting settling at: 20, 17
+Settling failed at: 20, 17
+1384 has a new Settling delay of 3.16583
+1451 is attempting settling at: 13, 17
+Settling failed at: 13, 17
+1451 has a new Settling delay of 1.17197
+1489 is attempting settling at: 9, 16
+Settling failed at: 9, 16
+1489 has a new Settling delay of 2.47705
+1490 is attempting settling at: 28, 10
+Settling Succeeded at: 28, 10
+New entity: 1652
+1491 is attempting settling at: 14, 27
+Settling Succeeded at: 14, 27
+New entity: 1653
+1492 is attempting settling at: 21, 8
+Settling failed at: 21, 8
+1492 has a new Settling delay of 1.08514
+1452 is attempting settling at: 7, 24
+Settling failed at: 7, 24
+1452 has a new Settling delay of 2.01578
+1493 is attempting settling at: 20, 10
+Settling Succeeded at: 20, 10
+New entity: 1656
+1494 is attempting settling at: 21, 6
+Settling Succeeded at: 21, 6
+New entity: 1657
+1495 is attempting settling at: 5, 13
+Settling Succeeded at: 5, 13
+New entity: 1658
+
+1501 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.51709
+>>>> New Wait Time: 3.5589
+
+
+1270 sprogged.
+>> Chance: 0.376835
+>> Roll: 0.127136
+
+
+1593 sprog failed.
+>> Chance: 0.417486
+>> Roll: 0.648193
+>>>> New Wait Time: 4.97571
+
+1662: Spawned with 7.99858 starting energy.
+
+1459 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0814819
+
+
+1530 sprogged.
+>> Chance: 0.5
+>> Roll: 0.028656
+
+
+1583 sprogged.
+>> Chance: 0.447117
+>> Roll: 0.0617981
+
+1663: Spawned with 10 starting energy.
+1664: Spawned with 10 starting energy.
+1665: Spawned with 9.14065 starting energy.
+1368 is attempting settling at: 6, 19
+Settling failed at: 6, 19
+1368 has a new Settling delay of 1.30121
+1418 is attempting settling at: 16, 18
+Settling failed at: 16, 18
+1418 has a new Settling delay of 3.64053
+1498 is attempting settling at: 21, 6
+Settling failed at: 21, 6
+1498 has a new Settling delay of 5.25766
+1499 is attempting settling at: 2, 6
+Settling failed at: 2, 6
+1499 has a new Settling delay of 4.75244
+1500 is attempting settling at: 11, 17
+Settling Succeeded at: 11, 17
+New entity: 1666
+
+1477 sprogged.
+>> Chance: 0.5
+>> Roll: 0.249298
+
+
+1160 sprog failed.
+>> Chance: 0.428274
+>> Roll: 0.854919
+>>>> New Wait Time: 3.39838
+
+
+1434 sprogged.
+>> Chance: 0.202122
+>> Roll: 0.192413
+
+
+1331 sprogged.
+>> Chance: 0.199835
+>> Roll: 0.106842
+
+1668: Spawned with 5.12232 starting energy.
+1669: Spawned with 5.15948 starting energy.
+1670: Spawned with 10 starting energy.
+
+1507 sprog failed.
+>> Chance: 0.241269
+>> Roll: 0.526093
+>>>> New Wait Time: 3.05573
+
+
+1567 sprog failed.
+>> Chance: 0.239366
+>> Roll: 0.59668
+>>>> New Wait Time: 4.94403
+
+
+1227 sprog failed.
+>> Chance: 0.227959
+>> Roll: 0.972839
+>>>> New Wait Time: 3.89301
+
+1503 is attempting settling at: 16, 3
+Settling failed at: 16, 3
+1503 has a new Settling delay of 3.45102
+
+1386 sprogged.
+>> Chance: 0.223583
+>> Roll: 0.190582
+
+
+1256 sprog failed.
+>> Chance: 0.211353
+>> Roll: 0.805328
+>>>> New Wait Time: 4.59448
+
+1671: Spawned with 5.50823 starting energy.
+1405 is attempting settling at: 21, 14
+Settling failed at: 21, 14
+1405 has a new Settling delay of 5.13437
+1506 is attempting settling at: 20, 23
+Settling failed at: 20, 23
+1506 has a new Settling delay of 2.81396
+
+1094 sprogged.
+>> Chance: 0.360766
+>> Roll: 0.308228
+
+
+1299 sprog failed.
+>> Chance: 0.339207
+>> Roll: 0.903687
+>>>> New Wait Time: 3.0965
+
+1672: Spawned with 7.73745 starting energy.
+
+1469 sprogged.
+>> Chance: 0.4878
+>> Roll: 0.340179
+
+
+1175 sprog failed.
+>> Chance: 0.208082
+>> Roll: 0.99057
+>>>> New Wait Time: 4.34021
+
+1673: Spawned with 9.80175 starting energy.
+1509 is attempting settling at: 22, 16
+Settling failed at: 22, 16
+1509 has a new Settling delay of 5.65622
+
+1207 sprog failed.
+>> Chance: 0.380964
+>> Roll: 0.51358
+>>>> New Wait Time: 3.48029
+
+
+1109 sprogged.
+>> Chance: 0.248864
+>> Roll: 0.127594
+
+
+1342 sprog failed.
+>> Chance: 0.226829
+>> Roll: 0.300354
+>>>> New Wait Time: 4.33398
+
+
+1601 sprog failed.
+>> Chance: 0.194558
+>> Roll: 0.241943
+>>>> New Wait Time: 3.00739
+
+1674: Spawned with 5.91903 starting energy.
+1510 is attempting settling at: 19, 13
+Settling failed at: 19, 13
+1510 has a new Settling delay of 2.34415
+
+1362 sprog failed.
+>> Chance: 0.433994
+>> Roll: 0.484161
+>>>> New Wait Time: 3.88702
+
+
+1535 sprog failed.
+>> Chance: 0.251941
+>> Roll: 0.495911
+>>>> New Wait Time: 4.57782
+
+
+1582 sprog failed.
+>> Chance: 0.25227
+>> Roll: 0.334351
+>>>> New Wait Time: 4.20007
+
+
+1103 sprogged.
+>> Chance: 0.229906
+>> Roll: 0.0708618
+
+1675: Spawned with 5.61097 starting energy.
+1492 is attempting settling at: 24, 19
+Settling Succeeded at: 24, 19
+New entity: 1676
+
+1115 sprog failed.
+>> Chance: 0.288052
+>> Roll: 0.508392
+>>>> New Wait Time: 4.60388
+
+
+1166 sprog failed.
+>> Chance: 0.224451
+>> Roll: 0.769836
+>>>> New Wait Time: 4.98376
+
+
+1355 sprog failed.
+>> Chance: 0.196024
+>> Roll: 0.434265
+>>>> New Wait Time: 4.64832
+
+1441 is attempting settling at: 18, 12
+Settling failed at: 18, 12
+1441 has a new Settling delay of 2.15631
+1451 is attempting settling at: 22, 17
+Settling failed at: 22, 17
+1451 has a new Settling delay of 2.0881
+
+1413 sprog failed.
+>> Chance: 0.222598
+>> Roll: 0.734711
+>>>> New Wait Time: 4.95654
+
+1389 is attempting settling at: 3, 20
+Settling failed at: 3, 20
+1389 has a new Settling delay of 2.25305
+1412 is attempting settling at: 24, 22
+Settling failed at: 24, 22
+1412 has a new Settling delay of 5.54987
+1447 is attempting settling at: 5, 12
+Settling failed at: 5, 12
+1447 has a new Settling delay of 3.3819
+1481 is attempting settling at: 22, 27
+Settling Succeeded at: 22, 27
+New entity: 1678
+
+1514 sprog failed.
+>> Chance: 0.317928
+>> Roll: 0.887726
+>>>> New Wait Time: 4.28833
+
+
+1222 sprog failed.
+>> Chance: 0.245122
+>> Roll: 0.684814
+>>>> New Wait Time: 3.5498
+
+
+1455 sprogged.
+>> Chance: 0.5
+>> Roll: 0.313202
+
+
+1408 sprog failed.
+>> Chance: 0.355483
+>> Roll: 0.671295
+>>>> New Wait Time: 3.97144
+
+1680: Spawned with 10 starting energy.
+1519 is attempting settling at: 2, 13
+Settling Succeeded at: 2, 13
+New entity: 1681
+
+1338 sprogged.
+>> Chance: 0.239045
+>> Roll: 0.154327
+
+1683: Spawned with 5.75949 starting energy.
+
+1620 sprog failed.
+>> Chance: 0.297324
+>> Roll: 0.375427
+>>>> New Wait Time: 4.71924
+
+1368 is attempting settling at: 6, 12
+Settling failed at: 6, 12
+1368 has a new Settling delay of 4.78342
+1520 is attempting settling at: 23, 6
+Settling Succeeded at: 23, 6
+New entity: 1684
+1521 is attempting settling at: 21, 14
+Settling failed at: 21, 14
+1521 has a new Settling delay of 5.375
+1522 is attempting settling at: 8, 19
+Settling Succeeded at: 8, 19
+New entity: 1685
+
+1214 sprog failed.
+>> Chance: 0.368273
+>> Roll: 0.369446
+>>>> New Wait Time: 4.90015
+
+
+1517 sprog failed.
+>> Chance: 0.327527
+>> Roll: 0.944153
+>>>> New Wait Time: 3.35065
+
+
+1363 sprogged.
+>> Chance: 0.245199
+>> Roll: 0.0773315
+
+
+1584 sprog failed.
+>> Chance: 0.245835
+>> Roll: 0.377167
+>>>> New Wait Time: 4.16522
+
+1688: Spawned with 5.85949 starting energy.
+1382 is attempting settling at: 5, 5
+Settling failed at: 5, 5
+1382 has a new Settling delay of 4.82126
+1523 is attempting settling at: 14, 9
+Settling failed at: 14, 9
+1523 has a new Settling delay of 3.62466
+
+1233 sprogged.
+>> Chance: 0.5
+>> Roll: 0.210022
+
+
+1058 sprog failed.
+>> Chance: 0.374325
+>> Roll: 0.892517
+>>>> New Wait Time: 4.50482
+
+1689: Spawned with 10 starting energy.
+1524 is attempting settling at: 28, 10
+Settling failed at: 28, 10
+1524 has a new Settling delay of 4.34488
+1525 is attempting settling at: 8, 7
+Settling failed at: 8, 7
+1525 has a new Settling delay of 3.07611
+
+1357 sprogged.
+>> Chance: 0.330962
+>> Roll: 0.218445
+
+
+1426 sprogged.
+>> Chance: 0.249066
+>> Roll: 0.199432
+
+1690: Spawned with 7.25314 starting energy.
+1691: Spawned with 5.92232 starting energy.
+
+1136 sprog failed.
+>> Chance: 0.301234
+>> Roll: 0.42041
+>>>> New Wait Time: 3.9729
+
+
+1445 sprogged.
+>> Chance: 0.237276
+>> Roll: 0.0805664
+
+
+1623 sprogged.
+>> Chance: 0.434489
+>> Roll: 0.0891113
+
+1692: Spawned with 5.73074 starting energy.
+1693: Spawned with 8.93545 starting energy.
+
+1056 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.655487
+>>>> New Wait Time: 4.35742
+
+
+1504 sprogged.
+>> Chance: 0.5
+>> Roll: 0.056488
+
+
+1556 sprog failed.
+>> Chance: 0.456672
+>> Roll: 0.767883
+>>>> New Wait Time: 3.0769
+
+
+1192 sprog failed.
+>> Chance: 0.20499
+>> Roll: 0.695587
+>>>> New Wait Time: 4.53674
+
+1694: Spawned with 10 starting energy.
+1452 is attempting settling at: 15, 7
+Settling failed at: 15, 7
+1452 has a new Settling delay of 2.0936
+1457 is attempting settling at: 12, 28
+Settling Succeeded at: 12, 28
+New entity: 1695
+1458 is attempting settling at: 21, 21
+Settling failed at: 21, 21
+1458 has a new Settling delay of 4.5466
+1528 is attempting settling at: 14, 12
+Settling failed at: 14, 12
+1528 has a new Settling delay of 5.0834
+1529 is attempting settling at: 21, 14
+Settling failed at: 21, 14
+1529 has a new Settling delay of 2.95679
+
+1205 sprogged.
+>> Chance: 0.403023
+>> Roll: 0.108459
+
+
+1305 sprog failed.
+>> Chance: 0.401509
+>> Roll: 0.963959
+>>>> New Wait Time: 3.68561
+
+
+1274 sprog failed.
+>> Chance: 0.253367
+>> Roll: 0.758484
+>>>> New Wait Time: 3.38062
+
+
+1242 sprog failed.
+>> Chance: 0.240243
+>> Roll: 0.351837
+>>>> New Wait Time: 4.0307
+
+1697: Spawned with 8.42412 starting energy.
+1439 is attempting settling at: 11, 18
+Settling failed at: 11, 18
+1439 has a new Settling delay of 4.15887
+1468 is attempting settling at: 16, 17
+Settling failed at: 16, 17
+1468 has a new Settling delay of 5.01749
+1475 is attempting settling at: 7, 20
+Settling failed at: 7, 20
+1475 has a new Settling delay of 5.74426
+1532 is attempting settling at: 28, 14
+Settling failed at: 28, 14
+1532 has a new Settling delay of 1.03693
+
+1152 sprog failed.
+>> Chance: 0.355782
+>> Roll: 0.419647
+>>>> New Wait Time: 4.40796
+
+
+1267 sprog failed.
+>> Chance: 0.347947
+>> Roll: 0.933563
+>>>> New Wait Time: 4.11823
+
+
+1380 sprog failed.
+>> Chance: 0.31442
+>> Roll: 0.553406
+>>>> New Wait Time: 3.03162
+
+1407 is attempting settling at: 8, 25
+Settling failed at: 8, 25
+1407 has a new Settling delay of 3.45422
+1428 is attempting settling at: 15, 17
+Settling failed at: 15, 17
+1428 has a new Settling delay of 4.75565
+
+1199 sprogged.
+>> Chance: 0.5
+>> Roll: 0.234467
+
+
+1259 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.655518
+>>>> New Wait Time: 3.57697
+
+
+1401 sprog failed.
+>> Chance: 0.344041
+>> Roll: 0.67334
+>>>> New Wait Time: 3.50183
+
+
+1127 sprogged.
+>> Chance: 0.239767
+>> Roll: 0.0712585
+
+1698: Spawned with 5.77121 starting energy.
+1699: Spawned with 10 starting energy.
+1489 is attempting settling at: 18, 2
+Settling failed at: 18, 2
+1489 has a new Settling delay of 4.01788
+
+1068 sprogged.
+>> Chance: 0.5
+>> Roll: 0.298401
+
+
+1301 sprogged.
+>> Chance: 0.394591
+>> Roll: 0.235291
+
+
+1627 sprog failed.
+>> Chance: 0.443946
+>> Roll: 0.542908
+>>>> New Wait Time: 3.00592
+
+
+1074 sprog failed.
+>> Chance: 0.223293
+>> Roll: 0.760895
+>>>> New Wait Time: 4.42615
+
+
+1632 sprog failed.
+>> Chance: 0.391914
+>> Roll: 0.758179
+>>>> New Wait Time: 4.35822
+
+
+1463 sprog failed.
+>> Chance: 0.201868
+>> Roll: 0.963867
+>>>> New Wait Time: 4.63599
+
+1700: Spawned with 10 starting energy.
+1701: Spawned with 8.28711 starting energy.
+1450 is attempting settling at: 17, 20
+Settling failed at: 17, 20
+1450 has a new Settling delay of 5.08005
+
+1084 sprog failed.
+>> Chance: 0.347569
+>> Roll: 0.396393
+>>>> New Wait Time: 4.17078
+
+
+1186 sprogged.
+>> Chance: 0.5
+>> Roll: 0.434814
+
+
+1471 sprogged.
+>> Chance: 0.5
+>> Roll: 0.0534058
+
+
+1313 sprog failed.
+>> Chance: 0.49107
+>> Roll: 0.504669
+>>>> New Wait Time: 3.1499
+
+
+1230 sprog failed.
+>> Chance: 0.447004
+>> Roll: 0.556305
+>>>> New Wait Time: 3.28546
+
+
+1397 sprog failed.
+>> Chance: 0.360255
+>> Roll: 0.970978
+>>>> New Wait Time: 3.37195
+
+1702: Spawned with 10 starting energy.
+1703: Spawned with 10 starting energy.
+1533 is attempting settling at: 6, 17
+Settling failed at: 6, 17
+1533 has a new Settling delay of 2.80557
+
+1617 sprogged.
+>> Chance: 0.465697
+>> Roll: 0.400146
+
+
+1371 sprogged.
+>> Chance: 0.228743
+>> Roll: 0.0388794
+
+1704: Spawned with 5.59207 starting energy.
+1705: Spawned with 9.44258 starting energy.
+1393 is attempting settling at: 6, 14
+Settling Succeeded at: 6, 14
+New entity: 1706
+
+1244 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.972229
+>>>> New Wait Time: 3.38617
+
+
+1329 sprogged.
+>> Chance: 0.472736
+>> Roll: 0.380188
+
+
+1072 sprog failed.
+>> Chance: 0.23182
+>> Roll: 0.413971
+>>>> New Wait Time: 4.19061
+
+
+1352 sprog failed.
+>> Chance: 0.225546
+>> Roll: 0.499451
+>>>> New Wait Time: 3.10669
+
+
+1650 sprog failed.
+>> Chance: 0.214545
+>> Roll: 0.260223
+>>>> New Wait Time: 4.06305
+
+1708: Spawned with 9.55696 starting energy.
+1476 is attempting settling at: 15, 27
+Settling Succeeded at: 15, 27
+New entity: 1709
+
+1326 sprogged.
+>> Chance: 0.5
+>> Roll: 0.117188
+
+
+1346 sprogged.
+>> Chance: 0.219373
+>> Roll: 0.217712
+
+1711: Spawned with 10 starting energy.
+1712: Spawned with 5.4398 starting energy.
+
+1580 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.847809
+>>>> New Wait Time: 3.64331
+
+
+1658 sprog failed.
+>> Chance: 0.366571
+>> Roll: 0.757812
+>>>> New Wait Time: 4.80603
+
+1384 is attempting settling at: 20, 26
+Settling failed at: 20, 26
+1384 has a new Settling delay of 5.96628
+1461 is attempting settling at: 11, 21
+Settling Succeeded at: 11, 21
+New entity: 1713
+1340: Died from energy loss.
+
+1537 sprogged.
+>> Chance: 0.239099
+>> Roll: 0.188995
+
+1715: Spawned with 5.76037 starting energy.
+1425 is attempting settling at: 20, 19
+Settling Succeeded at: 20, 19
+New entity: 1716
+1451 is attempting settling at: 17, 20
+Settling failed at: 17, 20
+1451 has a new Settling delay of 5.09134
+1534 is attempting settling at: 20, 12
+Settling failed at: 20, 12
+1534 has a new Settling delay of 4.19305
+1350: Died from energy loss.
+
+1573 sprogged.
+>> Chance: 0.251918
+>> Roll: 0.0209045
+
+
+1653 sprog failed.
+>> Chance: 0.420997
+>> Roll: 0.541168
+>>>> New Wait Time: 3.07343
+
+1718: Spawned with 5.96867 starting energy.
+1441 is attempting settling at: 15, 14
+Settling failed at: 15, 14
+1441 has a new Settling delay of 4.26324
+1510 is attempting settling at: 29, 22
+Settling Succeeded at: 29, 22
+New entity: 1719
+1532 is attempting settling at: 28, 9
+Settling failed at: 28, 9
+1532 has a new Settling delay of 4.47519
+
+1666 sprog failed.
+>> Chance: 0.41492
+>> Roll: 0.772217
+>>>> New Wait Time: 4.32898
+
+1354 is attempting settling at: 4, 14
+Settling failed at: 4, 14
+1354 has a new Settling delay of 1.92117
+1539 is attempting settling at: 19, 10
+Settling failed at: 19, 10
+1539 has a new Settling delay of 4.50067
+1540 is attempting settling at: 13, 7
+Settling Succeeded at: 13, 7
+New entity: 1721
+
+1507 sprogged.
+>> Chance: 0.336654
+>> Roll: 0.142151
+
+1723: Spawned with 7.34563 starting energy.
+1389 is attempting settling at: 14, 3
+Settling Succeeded at: 14, 3
+New entity: 1724
+1423 is attempting settling at: 14, 10
+Settling failed at: 14, 10
+1423 has a new Settling delay of 3.49039
+1479 is attempting settling at: 9, 17
+Settling Succeeded at: 9, 17
+New entity: 1725
+1506 is attempting settling at: 30, 11
+Settling Succeeded at: 30, 11
+New entity: 1726
+1541 is attempting settling at: 17, 20
+Settling failed at: 17, 20
+1541 has a new Settling delay of 3.81128
+1542 is attempting settling at: 15, 11
+Settling failed at: 15, 11
+1542 has a new Settling delay of 5.34616
+1482 is attempting settling at: 24, 13
+Settling failed at: 24, 13
+1482 has a new Settling delay of 2.38962
+
+1160 sprogged.
+>> Chance: 0.5
+>> Roll: 0.104797
+
+
+1501 sprogged.
+>> Chance: 0.5
+>> Roll: 0.385345
+
+
+1348 sprogged.
+>> Chance: 0.252503
+>> Roll: 0.0351257
+
+
+1111 sprog failed.
+>> Chance: 0.248136
+>> Roll: 0.249512
+>>>> New Wait Time: 4.40112
+
+1730: Spawned with 10 starting energy.
+1731: Spawned with 5.97817 starting energy.
+1732: Spawned with 10 starting energy.
+1543 is attempting settling at: 14, 7
+Settling failed at: 14, 7
+1543 has a new Settling delay of 1.68436
+
+1299 sprog failed.
+>> Chance: 0.434592
+>> Roll: 0.578552
+>>>> New Wait Time: 3.9859
+
+
+1559 sprog failed.
+>> Chance: 0.369904
+>> Roll: 0.546448
+>>>> New Wait Time: 4.90118
+
+
+1656 sprog failed.
+>> Chance: 0.432989
+>> Roll: 0.680481
+>>>> New Wait Time: 3.51013
+
+1432 is attempting settling at: 8, 13
+Settling failed at: 8, 13
+1432 has a new Settling delay of 2.65741
+
+1162 sprog failed.
+>> Chance: 0.241869
+>> Roll: 0.953888
+>>>> New Wait Time: 4.05042
+
+
+1316 sprogged.
+>> Chance: 0.228286
+>> Roll: 0.0783386
+
+
+1180 sprogged.
+>> Chance: 0.201889
+>> Roll: 0.158234
+
+1733: Spawned with 5.15569 starting energy.
+1734: Spawned with 5.58464 starting energy.
+1418 is attempting settling at: 8, 21
+Settling failed at: 8, 21
+1418 has a new Settling delay of 2.21246
+1544 is attempting settling at: 9, 12
+Settling failed at: 9, 12
+1544 has a new Settling delay of 3.83142
+
+1595 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.884827
+>>>> New Wait Time: 4.74219
+
+
+1601 sprogged.
+>> Chance: 0.289943
+>> Roll: 0.175079
+
+
+1631 sprog failed.
+>> Chance: 0.210422
+>> Roll: 0.314056
+>>>> New Wait Time: 4.45276
+
+1735: Spawned with 6.58658 starting energy.
+1503 is attempting settling at: 0, 28
+Settling failed at: 0, 28
+1503 has a new Settling delay of 5.09241
+1545 is attempting settling at: 29, 8
+Settling failed at: 29, 8
+1545 has a new Settling delay of 1.33783
+
+1261 sprogged.
+>> Chance: 0.37709
+>> Roll: 0.194183
+
+1736: Spawned with 8.00271 starting energy.
+1548 is attempting settling at: 13, 22
+Settling failed at: 13, 22
+1548 has a new Settling delay of 1.68726
+
+1609 sprog failed.
+>> Chance: 0.19689
+>> Roll: 0.365417
+>>>> New Wait Time: 4.10547
+
+1452 is attempting settling at: 27, 9
+Settling Succeeded at: 27, 9
+New entity: 1737
+1480 is attempting settling at: 11, 14
+Settling Succeeded at: 11, 14
+New entity: 1738
+1549 is attempting settling at: 19, 23
+Settling failed at: 19, 23
+1549 has a new Settling delay of 3.97104
+1550 is attempting settling at: 23, 25
+Settling Succeeded at: 23, 25
+New entity: 1739
+1551 is attempting settling at: 26, 12
+Settling Succeeded at: 26, 12
+New entity: 1740
+1552 is attempting settling at: 17, 6
+Settling Succeeded at: 17, 6
+New entity: 1741
+
+1385 sprogged.
+>> Chance: 0.478144
+>> Roll: 0.373413
+
+
+1641 sprogged.
+>> Chance: 0.251515
+>> Roll: 0.0216064
+
+
+1416 sprog failed.
+>> Chance: 0.203129
+>> Roll: 0.488068
+>>>> New Wait Time: 3.48334
+
+1747: Spawned with 9.64483 starting energy.
+1748: Spawned with 5.96211 starting energy.
+1361 is attempting settling at: 18, 15
+Settling failed at: 18, 15
+1361 has a new Settling delay of 4.08182
+1553 is attempting settling at: 16, 17
+Settling failed at: 16, 17
+1553 has a new Settling delay of 4.93036
+1554 is attempting settling at: 13, 7
+Settling failed at: 13, 7
+1554 has a new Settling delay of 1.01877
+1555 is attempting settling at: 16, 12
+Settling failed at: 16, 12
+1555 has a new Settling delay of 3.00089
+1558 is attempting settling at: 5, 13
+Settling failed at: 5, 13
+1558 has a new Settling delay of 5.36234
+
+1207 sprog failed.
+>> Chance: 0.488656
+>> Roll: 0.746948
+>>>> New Wait Time: 3.08685
+
+
+1227 sprogged.
+>> Chance: 0.347959
+>> Roll: 0.116089
+
+
+1652 sprog failed.
+>> Chance: 0.454843
+>> Roll: 0.913666
+>>>> New Wait Time: 3.53754
+
+1749: Spawned with 7.52933 starting energy.
+1561 is attempting settling at: 15, 3
+Settling Succeeded at: 15, 3
+New entity: 1750
+
+1057 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.608307
+>>>> New Wait Time: 4.52704
+
+
+1429 sprog failed.
+>> Chance: 0.201118
+>> Roll: 0.828064
+>>>> New Wait Time: 3.61426
+
+1562 is attempting settling at: 23, 5
+Settling failed at: 23, 5
+1562 has a new Settling delay of 2.46072
+
+1081 sprog failed.
+>> Chance: 0.21907
+>> Roll: 0.927643
+>>>> New Wait Time: 3.14355
+
+
+1172 sprog failed.
+>> Chance: 0.204195
+>> Roll: 0.21936
+>>>> New Wait Time: 3.6817
+
+1447 is attempting settling at: 26, 12
+Settling failed at: 26, 12
+1447 has a new Settling delay of 2.33163
+1563 is attempting settling at: 19, 7
+Settling failed at: 19, 7
+1563 has a new Settling delay of 3.58514
+
+1657 sprogged.
+>> Chance: 0.463758
+>> Roll: 0.295715
+
+
+1147 sprog failed.
+>> Chance: 0.240415
+>> Roll: 0.4263
+>>>> New Wait Time: 3.03778
+
+
+1211 sprog failed.
+>> Chance: 0.210349
+>> Roll: 0.635132
+>>>> New Wait Time: 3.12579
+
+
+1448 sprogged.
+>> Chance: 0.207272
+>> Roll: 0.074707
+
+1752: Spawned with 5.24317 starting energy.
+1753: Spawned with 9.41107 starting energy.
+1564 is attempting settling at: 22, 16
+Settling failed at: 22, 16
+1564 has a new Settling delay of 3.79266
+
+1362 sprogged.
+>> Chance: 0.5
+>> Roll: 0.226013
+
+
+1222 sprogged.
+>> Chance: 0.355891
+>> Roll: 0.336639
+
+
+1131 sprog failed.
+>> Chance: 0.235735
+>> Roll: 0.818817
+>>>> New Wait Time: 4.47632
+
+1754: Spawned with 7.65823 starting energy.
+1755: Spawned with 10 starting energy.
+1465 is attempting settling at: 19, 18
+Settling failed at: 19, 18
+1465 has a new Settling delay of 4.85315
+1525 is attempting settling at: 18, 23
+Settling failed at: 18, 23
+1525 has a new Settling delay of 5.87671
+
+1590 sprog failed.
+>> Chance: 0.245125
+>> Roll: 0.254639
+>>>> New Wait Time: 3.92621
+
+
+1060 sprog failed.
+>> Chance: 0.238812
+>> Roll: 0.546051
+>>>> New Wait Time: 4.01135
+
+1499 is attempting settling at: 9, 12
+Settling failed at: 9, 12
+1499 has a new Settling delay of 2.37329
+
+1517 sprog failed.
+>> Chance: 0.432143
+>> Roll: 0.538208
+>>>> New Wait Time: 4.48199
+
+
+1593 sprogged.
+>> Chance: 0.5
+>> Roll: 0.30011
+
+
+1098 sprog failed.
+>> Chance: 0.20331
+>> Roll: 0.559296
+>>>> New Wait Time: 3.31079
+
+1756: Spawned with 10 starting energy.
+1420 is attempting settling at: 24, 21
+Settling Succeeded at: 24, 21
+New entity: 1757
+1529 is attempting settling at: 16, 11
+Settling Succeeded at: 16, 11
+New entity: 1758
+1569 is attempting settling at: 3, 26
+Settling failed at: 3, 26
+1569 has a new Settling delay of 4.4726
+1570 is attempting settling at: 15, 7
+Settling failed at: 15, 7
+1570 has a new Settling delay of 1.48676
+
+1556 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.552368
+>>>> New Wait Time: 3.24646
+
+
+1256 sprog failed.
+>> Chance: 0.352892
+>> Roll: 0.896606
+>>>> New Wait Time: 4.97821
+
+
+1175 sprog failed.
+>> Chance: 0.343467
+>> Roll: 0.361908
+>>>> New Wait Time: 3.25592
+
+
+1484 sprogged.
+>> Chance: 0.241889
+>> Roll: 0.170044
+
+
+1321 sprog failed.
+>> Chance: 0.194789
+>> Roll: 0.542084
+>>>> New Wait Time: 4.74823
+
+1761: Spawned with 5.80569 starting energy.
+
+1582 sprogged.
+>> Chance: 0.384578
+>> Roll: 0.217102
+
+
+1342 sprogged.
+>> Chance: 0.362214
+>> Roll: 0.0662231
+
+
+1613 sprog failed.
+>> Chance: 0.218941
+>> Roll: 0.311981
+>>>> New Wait Time: 3.68268
+
+
+1395 sprogged.
+>> Chance: 0.21489
+>> Roll: 0.0154114
+
+1762: Spawned with 7.76097 starting energy.
+1763: Spawned with 5.36697 starting energy.
+1764: Spawned with 8.1244 starting energy.
+
+1408 sprogged.
+>> Chance: 0.478561
+>> Roll: 0.290802
+
+
+1380 sprog failed.
+>> Chance: 0.409804
+>> Roll: 0.67804
+>>>> New Wait Time: 3.15576
+
+
+1567 sprog failed.
+>> Chance: 0.393212
+>> Roll: 0.43927
+>>>> New Wait Time: 3.87103
+
+1765: Spawned with 9.65161 starting energy.
+1354 is attempting settling at: 22, 13
+Settling Succeeded at: 22, 13
+New entity: 1766
+1523 is attempting settling at: 12, 24
+Settling Succeeded at: 12, 24
+New entity: 1767
+1543 is attempting settling at: 2, 1
+Settling Succeeded at: 2, 1
+New entity: 1768
+1545 is attempting settling at: 20, 17
+Settling failed at: 20, 17
+1545 has a new Settling delay of 2.36002
+1554 is attempting settling at: 18, 5
+Settling failed at: 18, 5
+1554 has a new Settling delay of 2.68747
+
+1288 sprogged.
+>> Chance: 0.231888
+>> Roll: 0.0579834
+
+
+1678 sprog failed.
+>> Chance: 0.430191
+>> Roll: 0.57663
+>>>> New Wait Time: 3.21307
+
+1772: Spawned with 5.64317 starting energy.
+1498 is attempting settling at: 26, 14
+Settling failed at: 26, 14
+1498 has a new Settling delay of 3.90298
+1575 is attempting settling at: 12, 24
+Settling failed at: 12, 24
+1575 has a new Settling delay of 3.7356
+
+1514 sprogged.
+>> Chance: 0.450237
+>> Roll: 0.376648
+
+
+1535 sprogged.
+>> Chance: 0.39348
+>> Roll: 0.21524
+
+
+1274 sprog failed.
+>> Chance: 0.357983
+>> Roll: 0.77124
+>>>> New Wait Time: 4.75525
+
+
+1627 sprog failed.
+>> Chance: 0.5
+>> Roll: 0.765991
+>>>> New Wait Time: 3.77228
+
+
+1247 sprog failed.
+>> Chance: 0.238041
+>> Roll: 0.446869
+>>>> New Wait Time: 4.34106
+
+
+1374 sprog failed.
+>> Chance: 0.226605
+>> Roll: 0.773682
+>>>> New Wait Time: 4.33337
+
+1773: Spawned with 9.19135 starting energy.
+1774: Spawned with 8.26905 starting energy.
+1442 is attempting settling at: 4, 26
+Settling Succeeded at: 4, 26
+New entity: 1775
+1533 is attempting settling at: 23, 17
+Settling failed at: 23, 17
+1533 has a new Settling delay of 5.11942
+1578 is attempting settling at: 3, 11
+Settling failed at: 3, 11
+1578 has a new Settling delay of 2.05728
+1367 is attempting settling at: 11, 26
+Settling Succeeded at: 11, 26
+New entity: 1777
+
+1115 sprogged.
+>> Chance: 0.432668
+>> Roll: 0.422028
+
+
+1355 sprog failed.
+>> Chance: 0.34064
+>> Roll: 0.417786
+>>>> New Wait Time: 4.7995
+
+
+1496 sprog failed.
+>> Chance: 0.235442
+>> Roll: 0.526062
+>>>> New Wait Time: 3.98114
+
+1779: Spawned with 8.90585 starting energy.

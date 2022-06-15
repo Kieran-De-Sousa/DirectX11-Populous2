@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{b762462f-0dfc-4855-b4a3-ab1ee6dc9f99}</ProjectGuid>
+    <RootNamespace>Textures</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\ImageContentTask.props" />
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)Assets\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)Assets\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)Assets\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)Assets\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ImageContentTask Include="logo_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="grass.jpg" />
+    <ImageContentTask Include="white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="water.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="rocktile-1.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="ButtonBase.png" />
+    <ImageContentTask Include="ButtonBaseSelected.png" />
+    <ImageContentTask Include="ButtonIconAirGroup.png" />
+    <ImageContentTask Include="ButtonIconEarthGroup.png" />
+    <ImageContentTask Include="ButtonIconFireGroup.png" />
+    <ImageContentTask Include="ButtonIconHeroFight.png" />
+    <ImageContentTask Include="ButtonIconHeroHelp.png" />
+    <ImageContentTask Include="ButtonIconHeroHero.png" />
+    <ImageContentTask Include="ButtonIconHeroRally.png" />
+    <ImageContentTask Include="ButtonIconHeroWorld.png" />
+    <ImageContentTask Include="ButtonIconPeopleGroup.png" />
+    <ImageContentTask Include="ButtonIconVegetationGroup.png" />
+    <ImageContentTask Include="ButtonIconWaterGroup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="temp_house.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="..\Assets\cloud.png" />
+    <ImageContentTask Include="..\Assets\fire.png" />
+    <ImageContentTask Include="..\Assets\mushroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="grassBaseTile.png" />
+    <ImageContentTask Include="GrassDownTerrain.png" />
+    <ImageContentTask Include="GrassLeftTerrain.png" />
+    <ImageContentTask Include="GrassRIghtTerrain.png" />
+    <ImageContentTask Include="GrassUpTerrain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="WaterTerrain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="Cursor-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="raisedGround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="RaisedTerrainFixed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="miniMountain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="WaterTerrainFixed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="Terrain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="mBL.png" />
+    <ImageContentTask Include="mBR.png" />
+    <ImageContentTask Include="mTL.png" />
+    <ImageContentTask Include="mTR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="GrassHeight3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="GrassFlat.png" />
+    <ImageContentTask Include="GrassHeight1.png" />
+    <ImageContentTask Include="GrassHeight2.png" />
+    <ImageContentTask Include="WaterFlat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="SettlerSpriteSheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="GreenHouse.png" />
+    <ImageContentTask Include="RedHouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="goblinSpriteSheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="PopulousII MainMenu.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="PopulousII MainMenuButton.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="..\Assets\cloud_background_1.png" />
+    <ImageContentTask Include="..\Assets\cloud_background_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="..\Assets\blue_flag.png" />
+    <ImageContentTask Include="..\Assets\red_flag.png" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\ImageContentTask.targets" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ImageContentTask Include="logo_small.png" />
+    <ImageContentTask Include="grass.jpg" />
+    <ImageContentTask Include="white.jpg" />
+    <ImageContentTask Include="water.png" />
+    <ImageContentTask Include="rocktile-1.png.png" />
+    <ImageContentTask Include="ButtonBase.png" />
+    <ImageContentTask Include="ButtonBaseSelected.png" />
+    <ImageContentTask Include="ButtonIconAirGroup.png" />
+    <ImageContentTask Include="ButtonIconEarthGroup.png" />
+    <ImageContentTask Include="ButtonIconFireGroup.png" />
+    <ImageContentTask Include="ButtonIconHeroFight.png" />
+    <ImageContentTask Include="ButtonIconHeroHelp.png" />
+    <ImageContentTask Include="ButtonIconHeroHero.png" />
+    <ImageContentTask Include="ButtonIconHeroRally.png" />
+    <ImageContentTask Include="ButtonIconHeroWorld.png" />
+    <ImageContentTask Include="ButtonIconPeopleGroup.png" />
+    <ImageContentTask Include="ButtonIconVegetationGroup.png" />
+    <ImageContentTask Include="ButtonIconWaterGroup.png" />
+    <ImageContentTask Include="temp_house.jpg" />
+    <ImageContentTask Include="..\Assets\cloud.png" />
+    <ImageContentTask Include="..\Assets\fire.png" />
+    <ImageContentTask Include="..\Assets\mushroom.png" />
+    <ImageContentTask Include="grassBaseTile.png" />
+    <ImageContentTask Include="GrassDownTerrain.png" />
+    <ImageContentTask Include="GrassLeftTerrain.png" />
+    <ImageContentTask Include="GrassRIghtTerrain.png" />
+    <ImageContentTask Include="GrassUpTerrain.png" />
+    <ImageContentTask Include="WaterTerrain.png" />
+    <ImageContentTask Include="Cursor-1.png" />
+    <ImageContentTask Include="raisedGround.png" />
+    <ImageContentTask Include="RaisedTerrainFixed.png" />
+    <ImageContentTask Include="miniMountain.png" />
+    <ImageContentTask Include="WaterTerrainFixed.png" />
+    <ImageContentTask Include="Terrain.png" />
+    <ImageContentTask Include="mBL.png" />
+    <ImageContentTask Include="mBR.png" />
+    <ImageContentTask Include="mTL.png" />
+    <ImageContentTask Include="mTR.png" />
+    <ImageContentTask Include="GrassHeight3.png" />
+    <ImageContentTask Include="GrassFlat.png" />
+    <ImageContentTask Include="GrassHeight1.png" />
+    <ImageContentTask Include="GrassHeight2.png" />
+    <ImageContentTask Include="WaterFlat.png" />
+    <ImageContentTask Include="SettlerSpriteSheet.png" />
+    <ImageContentTask Include="GreenHouse.png" />
+    <ImageContentTask Include="RedHouse.png" />
+    <ImageContentTask Include="goblinSpriteSheet.png" />
+    <ImageContentTask Include="PopulousII MainMenu.png.png" />
+    <ImageContentTask Include="PopulousII MainMenuButton.png.png" />
+    <ImageContentTask Include="..\Assets\cloud_background_2.png" />
+    <ImageContentTask Include="..\Assets\cloud_background_1.png" />
+    <ImageContentTask Include="..\Assets\blue_flag.png" />
+    <ImageContentTask Include="..\Assets\red_flag.png" />
+  </ItemGroup>
+</Project>

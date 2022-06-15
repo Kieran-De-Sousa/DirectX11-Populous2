@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Media Include="Explo1.wav" />
+    <Media Include="NightAmbienceSimple_02.wav" />
+    <Media Include="..\Assets\fire_sound.wav" />
+    <Media Include="..\Assets\button_press_sound.wav" />
+    <Media Include="..\Assets\death_sound.wav" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+"KeyboardInput", "KeyboardInput.txt"
+"ArcadeInput", "ArcadeInput.txt"
+"Textures", "Textures.txt"
+"Audio", "Audio.txt"
+"GameSettings", "GameSettings.txt"
